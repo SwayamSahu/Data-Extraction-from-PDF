@@ -1,0 +1,9 @@
+Column Name,Data Type
+ID,BIGINT IDENTITY(1,1) NOT NULL
+WatchListID,BIGINT NOT NULL
+EmployeeID,NVARCHAR(15) NOT NULL (Default: '0')
+EmployeeName,NVARCHAR(255) NOT NULL
+EmployeeEmail,NVARCHAR(255) NOT NULL
+IsActive,BIT NOT NULL (Default: 1)
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

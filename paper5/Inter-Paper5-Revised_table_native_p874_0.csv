@@ -1,0 +1,39 @@
+,When goods are invoiced at cost,When goods are invoiced at invoice price
+For goods sent on
+consignment,Consignment A/c ... Dr.
+To Goods Sent on Consignment A/c
+(with the cost of goods),Consignment A/c ... Dr.
+To Goods Sent on Consignment A/c
+(with the invoice price of goods)
+Adjustment Entry for
+removing loading,No Entry,Goods Sent on Consignment A/c ... Dr.
+To Consignment A/c
+(with the amount of loading)
+For goods returned
+by consignee,Goods Sent on Consignment A/c ... Dr.
+To Consignment A/c
+(with the cost of goods),Goods Sent on Consignment A/c ... Dr.
+To Consignment A/c
+(with the invoice price of goods)
+Adjustment Entry for
+removing loading,No Entry,Consignment A/c ... Dr.
+To Goods Sent on Consignment A/c
+(with the amount of loading)
+For opening stock,Consignment A/c ... Dr.
+To Stock on Consignment A/c
+(with the cost of opening stock),Consignment A/c ... Dr.
+To Stock on Consignment A/c
+(with the invoice price of opening stock)
+Adjustment Entry for
+removing loading,No Entry,Stock Reserve A/c ... Dr.
+To Consignment A/c
+(with the amount of loading)
+For closing stock,Stock on Consignment A/c ... Dr.
+To Consignment A/c
+(with the cost of closing stock),Stock on Consignment A/c ... Dr.
+To Consignment A/c
+(with the invoice price of closing stock)
+Adjustment Entry for
+removing loading,No Entry,Consignment A/c ... Dr.
+To Stock Reserve A/c
+(with the amount of loading)

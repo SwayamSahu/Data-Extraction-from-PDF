@@ -1,0 +1,43 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+2013
+Jan. 1,Bills Receivable A/c Dr.
+To, Thakur A/c
+(Bill Drawn on Thakur.),,12,000,12,000
+Jan.4,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Bill discounted by bank.),,11,820
+180,12,000
+Jan.4,Thakur A/c Dr.
+To, Bank A/c
+To, Discount A/c
+(Half of the proceeds remitted to Thakur.),,6,000,5,910
+90
+Feb. 1,Thakur A/c Dr.
+To, Bills Payable A/c
+(Bill accepted.),,4,800,4,800
+Feb. 1,Bank A/c Dr.
+Discount A/c Dr.
+To, Thakur A/c
+(Half of the proceeds received from Thakur.),,2,364
+36,2,400
+Apr. 4,Thakur A/c Dr.
+To, Bank A/c
+(Bill dishonoured at maturity.),,12,000,12,000
+May 4,Bills Payable A/c Dr.
+To, Bank A/c
+(Bills honoured at maturity.),,4,800,4,800
+May 4,Thakur A/c Dr.
+To, Interest A/c
+(Interest becomes due),,100,100
+May 4,Bills Receivable A/c Dr.
+To, Thakur A/c
+(Fresh bill drawn on Thakur.),,8,500,8,500
+July 1,Thakur A/c Dr.
+To, Bills Receivable A/c
+(Bill dishonoured at maturity.),,8,500,8,500
+Sept. 30,Bank A/c Dr.
+Bad Debts A/c Dr.
+To, Thakur A/c
+(Dividend received from Thakur’s estate @ 50 in a rupee),,4,250
+4,250,8,500

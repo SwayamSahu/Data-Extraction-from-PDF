@@ -1,0 +1,33 @@
+Transactions,Drawer’s Books,Drawee’s Books
+,(iv) If sent to Bank for collection:
+Drawee’s A/c ... Dr.
+To Bills for Collection A/c,Bills Payable A/c ... Dr.
+To Drawer’s A/c
+When Noting
+Charges are paid on
+dishonoured bill,(i) If paid by drawer:
+Drawee’s A/c ... Dr.
+To Bank A/c,Noting Charges A/c ... Dr.
+To Drawer’s A/c
+,(ii) If paid by endorsee:
+Drawee’s A/c ... Dr.
+To Endorsee’s A/c,Noting Charges A/c ... Dr.
+To Drawer’s A/c
+,(iii) If paid by discounting Bank:
+Drawee’s A/c ... Dr.
+To Bank A/c,Noting Charges A/c ... Dr.
+To Drawer’s A/c
+When the bill is
+renewed for a further
+period,(i) For cancellation of the old bill: Drawee’s A/c
+... Dr.
+To Bills Receivable A/c,Bills Payable A/c ... Dr.
+To Drawer’s A/c
+,(ii) For interest on the extended period:
+Drawee’s A/c ... Dr.
+To Interest A/c,Interest A/c ... Dr.
+To Drawer’s A/c
+,(iii) For drawing the new bill :
+Bills Receivable A/c ... Dr.
+To Drawee’s A/c,Drawer’s A/c ... Dr.
+To Bills Payable A/c

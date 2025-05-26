@@ -1,0 +1,18 @@
+Particulars,L.F.,Amount
+`,Amount
+`
+(a) H.O. A/c Dr.
+To Goods sent to Branch A/c
+(Being the goods supplied to Agra Branch),,50,000,50,000
+(b) Bills Receivable A/c Dr.
+To H.O. A/c
+(Being the acceptance of a B/R received from Agra Branch),,40,000,40,000
+(c) Cash A/c Dr.
+To H.O. A/c
+(Being the cash received from Agra Branch),,10,000,10,000
+(d) Goods Sent to Branch A/c Dr.
+To H.O. A/c
+(Being the goods received from a customer of Agra Branch),,20,000,20,000
+(e) H.O. A/c Dr.
+To Debtors A/c
+(Being the cash collected by Agra Branch from our customer),,20,000,20,000

@@ -1,0 +1,23 @@
+Particulars,Disc
+(`),HDFC
+(`),Cash
+(`),Particulars,Disc
+(`),HDFC
+(`),Cash
+(`)
+To Balance b/d,,,3,000,By Balance b/d (OD),,53,450,
+To Cash sales,,,60,000,By Cash deposited in
+Bank (contra),,,60,000
+To Cash deposited in Bank (contra),,60,000,,By Cheques issued to
+suppliers,2,000,1,32,000,
+To Customers cheques deposited,3,000,1,50,000,,By Advances to suppliers
+by cheque,,25,000,
+To Advance cheques from Customers,,30,000,,By Cash withdrawn
+(contra),,6,000,
+To Cash withdrawn (contra),,,6,000,By Drawings,,4,000,
+,,,,By Expenses paid,,5,000,4,000
+,,,,By Cash paid on behalf
+of Customer,,,4,500
+,,,,By Bank charges,,150,
+,,,,By Balance c/d,,14,400,500
+,3,000,2,40,000,69,000,,2,000,2,40,000,69,000

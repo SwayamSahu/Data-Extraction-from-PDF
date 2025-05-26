@@ -1,0 +1,11 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Bills Receivable A/c Dr.
+To, Ravi A/c
+(Bill received from Ravi),,1,000,1,000
+,Amal A/c Dr.
+To, Bills Receivable A/c
+(Bill received from Ravi endorsed to Amal),,1,000,1,000
+,Ravi A/c Dr.
+To, Amal A/c
+(Bill endorsed to Amal dishonoured on maturity, noting
+charge being ` 10.),,1,010,1,010

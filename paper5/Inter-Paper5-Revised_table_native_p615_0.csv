@@ -1,0 +1,44 @@
+Date,Particulars,L.F,Amount
+`,Amount
+`
+31.3.13,Realisation A/c Dr.
+To Plant and Machinery A/c
+To Stock-in-trade A/c
+To Sundry Debtors A/c
+(Different assets transferred),,40,000,10,000
+20,000
+10,000
+,Sundry Creditors A/c Dr.
+To Realisation A/c
+(Sundry creditors transferred to Realisation
+Account),,10,000,10,000
+,Bank Loan A/c Dr.
+To B Capital A/c
+(Bank overdraft taken over by B),,15,000,15,000
+,RW & Co. A/c Dr.
+To Realisation A/c
+(Purchase consideration due),,41,000,41,000
+,Realisation A/c Dr.
+To A Capital A/c
+To B Capital A/c
+(Profit on realisation transferred to partners capital
+in the ratio of 1:2),,11,000,3,667
+7,333
+,B Capital A/c Dr.
+To A Capital A/c
+(Deficit in A’s capital made good by B),,2,333,2,333
+,A Capital A/c Dr.
+B Capital A/c (3,000 + 36,000) Dr.
+To RW & Co. A/c
+(Capital accounts of the partners closed by
+transfer to RW & Co.)
+Alternatively Shows:
+A Capital A/c Dr.
+B Capital A/c Dr.
+Loan from B A/c Dr.
+To RW & Co. A/c,,2,000
+39,000
+2,000
+3,000
+36,000,41,000
+41,000

@@ -1,0 +1,14 @@
+Item,Treatment in Branch A/c,Treatment in Memorandum Branch
+Stock A/c
+1. Goods sent to
+another branch,Treat like goods returned to H.O. and thus,
+show on the credit side of Branch Account.,Treat like goods returned to H.O.
+and thus, show on the credit side
+of Branch Stock Account.
+2. Goods received
+from another
+branch.,Treat like goods received from H.O. and
+thus, show on the debit side of Branch
+Account.,Treat like goods received from
+H.O. and thus, show on the debit
+side of Branch Stock Account.

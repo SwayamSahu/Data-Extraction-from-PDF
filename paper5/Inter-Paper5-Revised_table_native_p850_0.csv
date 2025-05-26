@@ -1,0 +1,12 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Bill Discounted A/c Dr.
+To, Amal’s Current A/c
+To, Discount A/c
+(Amal’s bill discounted which is due after 1 month.),,1,000,995
+5
+,Amal’s Current A/c Dr.
+To, Bills Discounted A/c
+To, Cash A/c
+(Bill received from Amal dishonoured at maturity, noting
+charge being ` 10.),,1,010,1,000
+10

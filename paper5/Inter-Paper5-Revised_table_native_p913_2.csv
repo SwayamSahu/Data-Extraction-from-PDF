@@ -1,0 +1,34 @@
+Date,Particulars,Amount (`),Date,Particulars,Amount (`)
+2013
+April
+2
+4
+16
+20
+24
+28,To, Sale on Approval
+A/c.
+- G
+- H
+- I
+- J
+- K
+- L,20,000
+36,000
+50,000
+16,000
+42,000
+60,000,2013
+April,By, Sale on Approval A/c.
+- Returned by G
+- Sold to H
+- Returned by I
+- Sold to J
+- Sold to K
+By, Balance c/d,20,000
+36,000
+50,000
+16,000
+42,000
+60,000
+,,2,24,000,,,2,24,000

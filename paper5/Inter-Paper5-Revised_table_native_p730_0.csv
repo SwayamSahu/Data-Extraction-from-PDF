@@ -1,0 +1,45 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+To Balance b/d.
+To Goods Sent to Branch A/c
+To Branch Debtors A/c
+(Returns to Branch)
+To Goods Sent to Branch A/c
+(Transfer from Delhi Branch),26,700
+78,300
+5 7 0
+6 0 0,By Goods Sent to Branch A/c
+(Returns to H.O.)
+By Goods Sent to Branch A/c
+(Transfer to Delhi Branch)
+By Branch Cash A/c
+(Cash Sales)
+By Branch Debtors A/c
+(Credit Sales)
+By Branch Adjustment A/c
+(Load on Loss-in-transit)
+By Branch Profit and Loss A/c
+(Cost of Loss-in-transit)
+By Branch Adjustment A/c
+(Normal Loss)
+By Branch Adjustment A/c
+(Agreed Allowance Allowed)
+By Branch Adjustment A/c
+(Load on Shortage)
+By Branch Profit/Loss A/c
+(Cost of shortage)
+By Balance c/d : In hand
+In transit,1,170
+5,100
+3,200
+72,940
+2 2 0
+4 4 0
+1 5 0
+1 0 0
+4 5 0
+9 0 0
+20,000
+1,500
+,1,06,170,,1,06,170

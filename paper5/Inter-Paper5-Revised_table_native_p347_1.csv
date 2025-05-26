@@ -1,0 +1,7 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Opening receivable,15,000,By, Opening advance received,10,000
+To, I & E A/c,1,85,000,By, Received during year,1,80,000
+(balancing figure),,By, Closing receivable :,
+To, Closing advance received,16,000,for 2011-12,1,000
+,,for 2012-13,25,000
+,2,16,000,,2,16,000

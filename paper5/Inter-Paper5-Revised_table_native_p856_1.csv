@@ -1,0 +1,13 @@
+Date,Particulars,L.F,Dr. (`),Cr. (`)
+2013
+Jan 1,Purchase A/c Dr.
+To, Y A/c
+(Goods purchased from Y),,4,000,4,000
+Jan 1,Y A/c Dr.
+To, Bills Payable A/c
+(Bills accepted for 3 months),,4,000,4,000
+March 1,Bills Payable A/c Dr.
+To, Cash A/c
+To, Rebate Received A/c
+(Bills retired under a rebate of 12% p.a.),,4,000,3,956
+46

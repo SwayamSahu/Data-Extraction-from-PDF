@@ -1,0 +1,35 @@
+Date,Particulars,L.F.,Debit
+`,Credit
+`
+2013
+July 1,Bank A/c Dr.
+To M’s Capital A/c
+To Goodiwll A/c
+(Cash to be brought in by M As capital),,28,600,25,000
+3,600
+,Goodwill A/c Dr.
+To K’s Capital A/c
+(Value of goodwill credited to K’s Capital only),,3,600*,3,600
+,Reserve A/c Dr.
+To K’s Capital A/c
+To L’s Capital A/c
+(Reserve credited to old partners capital accounts in 5:3),,14,000,8,750
+5,250
+,K : Capital A/c Dr.
+L : Capital A/c Dr.
+M : Capital A/c Dr.
+To Reserve A/c
+(Reserve shown at its original value),,4,000
+8,000
+2,000,14,000
+,Revaluation A/c Dr.
+To Patents A/c
+(Patent eliminated from the book),,10,000,10,000
+,Reserve for Bad Debts A/c Dr.
+To Revaluation A/c
+(Excess provision written back),,2,800,2,800
+,K’s Capital A/c Dr.
+L’s Capital A/c Dr.
+To Revaluation A/c
+(Loss on revaluation transferred),,4,500
+2,700,7,200

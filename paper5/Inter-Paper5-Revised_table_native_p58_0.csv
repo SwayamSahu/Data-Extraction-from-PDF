@@ -1,0 +1,9 @@
+Date,Particulars,Voucher
+No.,Ledger
+Folio,Amount
+(`),Amount
+(`)
+10.05.2013,Purchase A/c Dr.
+To, Cash A/c
+(Being goods purchased for Cash),31,5
+17,50,000,50,000

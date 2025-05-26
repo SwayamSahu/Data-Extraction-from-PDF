@@ -1,0 +1,39 @@
+Date,Particulars,LF,Amount (`),Amount (`)
+2013
+March
+31st,Trading A/c Dr.
+To, Opening Stock A/c
+To, Purchases A/c
+To, Wages A/c
+To, Returns inward A/c
+(Transfer to balances for closing the latter accounts),,75,000,10,000
+50,000
+5,000
+10,000
+,Sales A/c Dr.
+Returns outward A/c Dr.
+Closing Stock A/c Dr.
+To, Trading A/c
+(Transfer of balances for closing the former accounts),,1,00,000
+5,000
+15,000,1,20,000
+,Trading A/c Dr.
+To, Profit and Loss A/c
+(Gross profit transferred),,45,000,45,000
+,Profit and Loss A/c Dr.
+To, Salaries A/c
+To, Insurance A/c
+To, Bad Debts A/c
+To, Discount allowed A/c
+(Transfer of balances for closing the latter accounts),,16,000,8,000
+1,000
+3,000
+4,000
+,Interest received A/c Dr.
+Discount received A/c Dr.
+To, Profit and Loss A/c
+(Transfer of balances for closing the former accounts),,3,000
+3,000,6,000
+,Profit and Loss A/c Dr.
+To, Capital A/c
+(Net profit transferred to Capital A/c),,35,000,35,000

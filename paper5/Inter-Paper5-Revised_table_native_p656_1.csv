@@ -1,0 +1,15 @@
+,Particulars,Debit (`),Credit (`)
+1.,Hire Purchase Asset A/c [Down payment] Dr.
+To, Hire Vendor A/c,xxxx,xxxx
+2.,Hire Vendor A/c Dr.
+To, Bank A/c,xxxx,xxxx
+3.,Hire Purchase Asset A/c [Instalment less Interest] Dr.
+Interest A/c Dr.
+To, Hire Vendor A/c,xxxx
+xxxx,xxxx
+4.,Hire Vendor A/c Dr.
+To, Bank A/c,xxxx,xxxx
+5.,P/L A/c Dr.
+To, Interest A/c
+To, Depreciation A/c,xxxx,xxxx
+xxxx

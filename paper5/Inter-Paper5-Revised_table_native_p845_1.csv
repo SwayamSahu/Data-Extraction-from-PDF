@@ -1,0 +1,11 @@
+,Transactions,Entries in the books of Drawer,Entries in the books of Drawee
+1,If the bill is drawn,Bills Receivable A/c Dr.
+To, Drawee A/c,Drawer A/c Dr.
+To, Bills Payable A/c
+2,If the bill is discounted
+by the bank,Cash/Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c,—
+3,If the bill is honoured
+at the due date,—,Bills Payable A/c Dr.
+To, Cash / Bank A/c

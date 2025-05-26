@@ -1,0 +1,37 @@
+Date,Particulars,L.F.,Dr.
+(`),Cr.
+(`)
+,Rahim A/c Dr.
+To, Bills Payable A/c
+(Bill accepted for mutual accommodation),,3,000,3,000
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Rahim A/c
+(1 proceeds received from Rahim including discount)
+3,,975
+25,1,000
+,Bills Receivable A/c Dr.
+To, Rahim A/c
+(Bill drawn and accepted by Rahim),,3,750,3,750
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Bill discounted),,3,625
+125,3,750
+,Rahim A/c Dr.
+To, Bank A/c
+“Discount A/c
+(Proceeds remitted to Rahim including discount),,250,175
+75
+,Rahim A/c Dr.
+To, Bank A/c
+(Bill honoured at maturity),,3,750,3,750
+,Bills Payable A/c Dr.
+To, Bank A/c
+(Bill honoured at maturity),,3,000,3,000
+,Bank A/c Dr.
+Bad Debt A/c Dr.
+To, Rahim A/c
+(Amount realised from the official liquidator of Rahim @ 80
+paise in the rupee and the balance proved bad),,1,800
+450,2,250

@@ -1,0 +1,25 @@
+Item,Treatment,Where
+Wages,Trading A/c,Dr
+Salaries to office staff,P & L A/c,Dr
+Depreciation on office car,P & L A/c,Dr
+Power & fuel,Trading A/c,Dr
+Repairs to machinery,Trading A/c,Dr
+Maintenance of office building,P & L A/c,Dr
+Purchase returns or return outwards,Trading A/c,Dr less from purchases
+Closing stock of WIP,Trading A/c,Cr
+Opening stock of finished goods,Trading A/c,Dr
+Interest received,P & L A/c,Cr
+Commission paid,P & L A/c,Dr
+Telephone,P & L A/c,Dr
+Travel & conveyance,P & L A/c,Dr
+Insurance,P & L A/c,Dr
+Audit fees,P & L A/c,Dr
+Carriage inward,Trading A/c,Dr
+Freight outward,P & L A/c,Dr
+Bad debts,P & L A/c,Dr
+Provision for outstanding rent,P & L A/c,Dr
+Return inwards or sales returns,Trading A/c,Cr less from sales
+Discount earned,P & L A/c,Cr
+Depreciation on delivery van,P & L A/c,Dr
+Printing and stationery,P & L A/c,Dr
+Sales,Trading A/c,Cr

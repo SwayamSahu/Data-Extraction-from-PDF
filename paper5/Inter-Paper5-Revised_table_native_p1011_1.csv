@@ -1,0 +1,46 @@
+Particulars,2011-12,2012-13,2013-14
+A. Opening Capital Cost
+B. Additional Capital Cost
+C Closing Capital Cost
+D. Average Capital Cost [(A + C)/2]
+E. Less: Cost of Freehold Land
+F. Average Capital Cost for Depreciation (D - E)
+G. Depreciable value (90% of F)
+H. Depreciation recovered upto prev. year *(48.6 + 5.4)
+I. Balance Depreciation to be recovered (G - H)
+J. Balance useful life out of 35 years
+K. Yearly depreciation from 2011-12 (I/J)
+L. Depreciation recovered upto the year (H + K),222.00
+0.00
+222.00
+222.00
+12.00
+210.00
+189.00
+*54.00
+135.00
+20.00
+6.75
+60.75,222.00
+10.56
+232.56
+227.28
+12.00
+215.28
+193.75
+60.75
+133.00
+19.00
+7.00
+67.75,232.56
+29.44
+262.00
+247.28
+12.00
+235.28
+211.75
+67.75
+144
+18.00
+8.00
+75.75

@@ -1,0 +1,22 @@
+Date,Particulars,Amount
+`,Amount
+`,Date,Particulars,Amount
+`,Amount
+`
+31.12.13,To Drawings
+“ Intrest on
+Drawings
+“ Balance c/d,12,000
+360
+15,640,12,000
+360
+29,640,1.1.13
+31.12.13,By Bank
+(Capital Introduced)
+“ Interest on Capital
+“ Share of Profit,20,000
+1,200
+6,800,30,000
+1,800
+10,200
+,,28,000,42,000,,,28,000,42,000

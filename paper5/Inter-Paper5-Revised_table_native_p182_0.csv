@@ -1,0 +1,22 @@
+When reconciliation is started with ,Bal. as per
+CB,OD as per
+CB,Bal as per
+PB,OD as per
+PB
+Undercasting of Payment side of Cash Book or
+overcasting of Receipts side of Cash Book,Less,Add,Add,Less
+Deposits recorded twice in the Cash Book or
+excess amount recorded in the Cash Book,Less,Add,Add,Less
+Undercasting of credit side of the Pass Book or
+overcasting of the debit side of the Pass Book,Less,Add,Add,Less
+Cheques deposited into Bank and credited
+without recording in the Cash Book,Add,Less,Less,Add
+Wrong debit in the Pass Book for issue of
+cheque, Bank charges, etc.,Less,Add,Add,Less
+Wrong credit in the Pass Book for deposit of
+cheque, interest, etc.,Add,Less,Less,Add
+Cheques drawn but not actually issued to the
+suppliers/ creditors,Add,Less,Less,Add
+Bank charges recorded twice in the Cash Book,Add,Less,Less,Add
+Amount withdrawn from Bank not recorded
+in the Cash Book,Less,Add,Add,Less

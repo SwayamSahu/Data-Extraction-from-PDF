@@ -1,0 +1,8 @@
+Column Name,Data Type
+ID,BIGINT IDENTITY(1,1) NOT NULL
+DeptID,NVARCHAR(15) NOT NULL
+DeptName,NVARCHAR(30) NOT NULL
+ExpectedCount,BIGINT NOT NULL (Default: 0)
+IsActive,BIT NOT NULL (Default: 1)
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

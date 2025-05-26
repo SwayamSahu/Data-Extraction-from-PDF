@@ -1,0 +1,35 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+01.01.11,To, Bank A/c,80,000,31.12.11,By, Depreciation A/c
+,, Balance c/d,8,000
+72,000
+,,80,000,,,80,000
+01.01.12
+01.07.12,To, Balance b/d
+,, Bank A/c,72,000
+40,000,31.12.12,By, Depreciation A/c
+,, Balance c/d,9,200
+1,02,800
+,,1,12,000,,,1,12,000
+01.01.13
+30.06.13,To, Balance b/d
+,, P & L A/c (Profit on Sale)
+,, Bank A/c,1,02,800
+2,076
+20,000,31.3.13
+30.6.13
+31.12.13,By, Bank (Sale) A/c
+,, Depreciation A/c
+,, P & L A/c (Loss on Sale)
+,, Bank A/c (Sale)
+,, Depreciation A/c
+,, Depreciation A/c
+,, Balance c/d,11,000
+285
+115
+26,700
+1,296
+7,048
+78,432
+,,1,24,876,,,1,24,876

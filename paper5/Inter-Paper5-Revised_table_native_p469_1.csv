@@ -1,0 +1,18 @@
+Date,Particulars,L.F.,Amount
+`,Amount
+`
+1.1.13,Bank A/c Dr.
+To Charu’s Capital A/c
+[Amount invested as capital contribution by Charu],,6,000,6,000
+1.1.13,Bank A/c Dr.
+To Amal’s Capital A/c [3/5]
+To Bimal’s Capital A/c [2/5]
+[Premium paid by Chanu and credited to Amal and Bimal
+in their sacrifice ratio 3: 2],,3,000,1,800
+1,200
+1.1.13,Amal’s Capital A/c [2/10 of ` 4,800] Dr.
+Bimal’s Capital A/c [3/10 of ` 4,800] Dr.
+To Charu’s Capital A/c
+[Adjustment made for Charu’s own Goodwill brought into
+the business],,960
+1,440,2,400

@@ -1,0 +1,9 @@
+Particulars,Amount (`),Amount (`),Particulars,Amount (`),Amount (`)
+To Opening stock,-,36,500,By Sales,8,50,000,
+To Purchases,6,75,000,,Less: Returns,(34,000),
+Less: Returns,(13,500),,Add: Rectification,1,500,8,17,500
+Less: Additional returns,(1,500),,By Closing stock,,45,000
+Add: Purchases missed out,19,000,,,,
+Less: Over-casting rectified,(1,000),6,78,000,,,
+To Gross Profit c/d,,1,48,000,,,
+,,8,62,500,,,8,62,500

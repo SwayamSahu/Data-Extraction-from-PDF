@@ -1,0 +1,30 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2012
+Apr.1
+2013
+Mar. 31,To Balance b/d
+,, Goods sent to Branch A/c
+,, Branch Debtors A/c
+(Returns Inward),30,000
+3,25,000
+500,2013
+Mar.31,By Branch Cash A/c –
+Cash Sales 1,00,000
+,, Branch Debtors
+Credit Sales 1,75,000
+,, Goods Sent to Branch A/c
+Returned from Branch
+,, Pilferage A/c
+,, Lost by Fire A/c
+,, Chennai Branch A/c
+Goods transferred but
+in-transit
+,, Balance c/d,2,75,000
+10,000
+2,000
+5,000
+15,000
+48,500
+,,3,55,500,,,3,55,500

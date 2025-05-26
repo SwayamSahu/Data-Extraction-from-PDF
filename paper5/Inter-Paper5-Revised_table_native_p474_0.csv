@@ -1,0 +1,55 @@
+Date,Particulars,L.F.,Amount
+`,Amount
+`
+01.01.13,Bank A/c Dr.
+To Lime’s Capital A/c
+[Being amount contributed by lime on admission as a
+new partner],,15,000,15,000
+”,Bank A/c Dr.
+To Brick’s Capital A/c [3/6]
+To Sand’s Capital A/c [2/6]
+To Cement’s Capital A/c [1/6]
+[Being premium for goodwill brought in by new partner
+and credited to old partners Capitals in their sacrifice
+ratio 3:2:1],,12,000,6,000
+4,000
+2,000
+”,Land and Buildings A/c Dr.
+To Revaluation A/c
+[Being value of Land & Buildings appreciated on
+revaluation],,6,000,6,000
+”,Revaluation A/c Dr.
+To Furniture A/c
+To Stock A/c
+To Provision for Bad Debts A/c
+[Being values of assets decreased on revaluation],,7,500,3,000
+4,000
+5 0 0
+”,Creditors A/c Dr.
+To Bank A/c
+To Revaluation A/c
+[Being creditors claim discharged at a discount],,2,300,2,000
+3 0 0
+”,Brick’s Capital A/c Dr.
+Sand’s Capital A/c Dr.
+Cement’s Capital A/c Dr.
+To Revaluation A/c
+[Loss on revaluation debited to’ old partners in old ratio
+3 : 2 :1],,600
+400
+200,1,200
+”,Reserve A/c Dr.
+To Brick’s Capital A/c
+To Sand’s Capital A/c
+To Cement’s Capital A/c
+[Reserve A/c closed and credited to old partners in old
+ratio 3 : 2 :1],,29,800,14,900
+9,933
+4,967
+”,Brick’s Capital A/c Dr.
+Sand’s Capital A/c Dr.
+Cement’s Capital A/c Dr.
+To Bank A/c
+[Half of the Reserve withdrawn by old partners],,7,450
+4,967
+2,483,14,900

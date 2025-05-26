@@ -1,0 +1,14 @@
+Date,Particulars,L. F.,Debit (`),Credit (`)
+April,
+2013
+28,Purchase A/c Dr.
+To, Mr. Bose A/c
+[Being goods purchased from Mr. Bose on credit],,5,000,5,000
+30,Mr. Bose A/c Dr.
+To, Cash A/c
+To, Returns Outward A/c
+To, Discount Received A/c
+[Being goods returned to Mr. Bose and paid cash in full
+settlement],,5,000,4,000
+500
+500

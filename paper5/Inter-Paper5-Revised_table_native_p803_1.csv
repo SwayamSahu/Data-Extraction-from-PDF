@@ -1,0 +1,32 @@
+Original Entry,Debtors Ledger,General Ledger
+1. For Cash Receipts, Discount
+Allowed, Returns Inward,
+Bad Debts, Bills Receivable
+etc.,Individual Customer’s
+Account is credited,Cash A/c Dr.
+Discount Allowed A/c Dr.
+Returns Inward A/c Dr.
+Bad Debts A/c Dr.
+Bills Receivable A/c Dr.
+To Total Debtors A/c
+2. For Sales Day Book, Bills
+Receivable Dishonoured,
+Interest and Charges etc.,Individual Customer’s
+Account is debited,Total Debtors A/c Dr.
+To Sales A/c
+To B/R Dishonoured A/c
+To Interest and Charges A/c
+(b) For Total Creditors,,
+For Cash Payment, Discount
+Received, Returns Outward,
+Bills Payable etc.,Individual Creditor’s
+Account is debited,Total Creditor’s A/c Dr.
+To Cash A/c
+To Discount Received A/c
+To Returns Outwards A/c
+To Bills Payable A/c
+For Purchase Day Book, Interest
+and Charges, etc.,Individual Creditor’s
+Account is credited,Purchase A/c Dr.
+Interest & Charges A/c Dr.
+To Total Creditor’s A/c

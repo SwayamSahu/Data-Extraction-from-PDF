@@ -1,0 +1,44 @@
+Situation,Journal
+1. To record Opening Balances of Branch Assets,Branch A/c Dr.
+To Branch Assets (Individually)
+2. To record Opening Balances of Branch Liabilities,Branch Liabilities (Individually) Dr.
+To Branch A/c
+3. When goods are supplied by the Head Office/
+another Branch to Branch,Branch A/c Dr.
+To Goods sent to Branch A/c
+4. When goods are returned by the Branch /
+Branch Customers directly to the Head Office,Goods Sent to Branch A/c Dr.
+To Branch A/c
+5. When goods are supplied by the Branch to
+another Branch as per instructions of Head office,Goods Sent to Branch A/c Dr.
+To Branch A/c
+6. When goods are supplied by the Head office but
+not received by the Branch head,Goods-in Transit A/c Dr.
+To Branch A/c
+7. When the Head Office meets the branch
+expenses or sends cash to the Branch for
+meeting expenses,Branch A/c Dr.
+To Cash/Bank A/c
+8. When remittances are received by the Head
+Office from the Branch/ Branch Customers,Cash/Bank A/c Dr.
+To Branch A/c
+9. When remittances are sent by the Branch but
+not received by the Head office,Cash in-transit A/c Dr.
+To Branch A/c
+10. When the balance in Goods sent to Branch
+Account is transferred,Goods sent to Branch A/c Dr.
+To Purchases A/c
+(in case of Trading concerns) or,
+To Trading A/c
+(in case of manufacturing concerns)
+11. To record the closing balances of Branch Assets,Branch Assets A/c (Individually) Dr.
+To Branch A/c
+12. To record the closing balances of Branch
+Liabilities,Branch A/c Dr.
+To Branch Liabilities (Individually)
+13. To record Profit or Loss
+(i) If credit side exceeds the debit side
+(ii) If debit side exceeds the credit side,Branch A/c Dr.
+To General Profit & Loss A/c
+General Profit & Loss A/c Dr.
+To Branch A/c

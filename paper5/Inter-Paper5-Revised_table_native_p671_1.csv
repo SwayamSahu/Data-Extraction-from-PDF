@@ -1,0 +1,13 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.11,To B A/c,10,00,000,31.12.11,By Depreciation A/c,2,00,000
+,,,,By Balance c/d,8,00,000
+,,10,00,000,,,10,00,000
+01.01.12,To Balance b/d,8,00,000,31.12.12,By Depreciation A/c,2,00,000
+,,,,By Balance c/d,6,00,000
+,,8,00,000,,,8,00,000
+01.01.13,To Balance b/d,6,00,000,01.01.13,By B A/c,2,16,000
+,,,,By P&L A/c
+[loss on default],1,44,000
+,,,,By Depreciation A/c,80,000
+,,,,By Balance c/d,1,60,000
+,,6,00,000,,,6,00,000

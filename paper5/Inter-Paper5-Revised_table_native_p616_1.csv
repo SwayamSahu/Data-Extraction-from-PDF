@@ -1,0 +1,45 @@
+Date,Particulars,L.F.,Amount
+`,Amount
+`
+31.3.13,Realisalion A/c Dr.
+To Goodwill A/c
+To Stock-in-trade A/c
+To Sundry Debtors A/c
+(Different Assets transferred),,20,000,5,000
+5,000
+10,000
+,Sundry Creditors A/c Dr.
+To Realisation A/c
+(Sundry creditors transferred),,9,500,9,500
+,RW & Co. A/c Dr.
+To Realisation A/c
+(Purchase consideration due),,5,000,5,000
+,C’s Capital A/c Dr.
+D’s Capital A/c Dr.
+To Realisation A/c
+(Loss on realisation transferred to Capital
+Account equally),,2,750
+2,750,5,500
+,Cash A/c Dr.
+To D’s Capital A/c
+(Being the necessary amount brought in by D
+to make up his required capital contribution),,4,750,4,750
+,C’s Capital A/c Dr.
+D’s Capital A/c Dr.
+To RW & Co. A/c
+To Cash A/c
+(Capital accounts of the partners closed by transfer
+to RW & Co. and balance paid by cash)
+Alternatively Shows:
+C’s Capital A/c Dr.
+To Cash A/c
+(Being the C's Capital is paid off),,7,250
+4,000
+6,250,5,000
+6,250
+6,250
+,C’s Capital A/c Dr.
+D’s Capital A/c Dr.
+To RW & Co. A/c
+(Being the Partner's Capital transferred to RW & Co.),,1,000
+4,000,5,000

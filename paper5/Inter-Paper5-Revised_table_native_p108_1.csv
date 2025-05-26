@@ -1,0 +1,10 @@
+Date,Particulars,L.F,Amount (`),Amount (`)
+(a),Return Inward A/c Dr.
+To, Suspense A/c
+(Return Inward Book was cast short, now rectified.),,500,500
+(b),Suspense A/c Dr.
+To, Ram A/c
+To Shyam A/c
+(Received from Mr. Ram has been debited to Mr.
+Shyam A/c, now rectified.),,600,300
+300

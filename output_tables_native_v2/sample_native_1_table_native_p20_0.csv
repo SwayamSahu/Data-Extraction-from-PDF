@@ -1,0 +1,3 @@
+StoredProcColumnName,Data type
+@param_Date,DATETIME
+@param_DeptCode,NVARCHAR(6)

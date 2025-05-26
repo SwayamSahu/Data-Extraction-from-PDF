@@ -1,0 +1,10 @@
+Situations,Drawer’s books,Drawee’s books
+Drawing of a bill,B/R A/c Dr.
+To, Drawee A/c,Drawer A/c Dr.
+To, B/P A/c
+Discounting with bank,Bank A/c Dr.
+Discount A/c Dr.
+To, B/R A/c,No Entry
+Payment on due date,Drawee A/c Dr.
+To, Bank A/c,B/P A/c Dr.
+To, Bank A/c

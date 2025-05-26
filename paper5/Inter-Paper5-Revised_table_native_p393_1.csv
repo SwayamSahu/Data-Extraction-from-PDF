@@ -1,0 +1,13 @@
+Particulars,`,Particulars,`
+To, Opening Stock
+To, Purchases ( balancing figures)
+To, Gross Profit c/d,1,05,000
+6,67,500
+73,000,By, Sales
+By, Closing Stock,7,30,000
+1,15,500
+,8,45,500,,8,45,500
+To Operating Expenses (balancing figure)
+To Net Profit for the year,43,000
+30,000,By Gross Profit b/d,73,000
+,73,000,,73,000

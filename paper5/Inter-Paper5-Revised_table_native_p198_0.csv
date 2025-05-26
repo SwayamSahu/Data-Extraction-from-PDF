@@ -1,0 +1,9 @@
+Particulars,Amount (`)
+Amount due to supplier (as per books of the Supplier),2,53,000
+Less: Overstatement of sales figure in the books of supplier (i.e. goods sold by
+supplier to Amarnath for ` 71,000 but recorded as ` 78,000),7,000
+Less: Goods returned to supplier, now in transit,5,000
+Less: Cheques issued to vendor, now in transit,28,000
+Add: Bills raised against goods purchased, not stock-in-transit, i.e. not yet reached
+the warehouse of the supplier,22,000
+Amount due to supplier (as per books of Amarnath),2,35,000

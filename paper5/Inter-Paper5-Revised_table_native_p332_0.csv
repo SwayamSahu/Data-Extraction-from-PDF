@@ -1,0 +1,18 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Balance b/d
+To, Income & Expenditure A/c
+To, Balance (paid in advance to 2013)
+To, Balance b/d:
+For 2012
+For 2013,400
+3,000
+80,By, Balance b/d
+By, Cash Received (bal fig)
+By, Balance c/d
+[200 + 140]
+By, Balance b/d (2013),100
+3,040
+340
+,3,480,,3,480
+,200
+140,,80

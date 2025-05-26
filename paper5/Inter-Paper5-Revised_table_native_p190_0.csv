@@ -1,0 +1,27 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+2013
+March
+31,To Dividend A/c.
+“ Error
+(under casting in debited
+side)
+“ Balance c/d.,90
+300
+3,732,2013
+March
+31,By Balance b/d.
+“ Electric Charges A/c.
+Cheque drawn for
+[` 182 wrongly recorded
+as ` 128 (` 182 – ` 128)]
+“ S. Gupta’s A/c.
+-Cheque dishonoured
+`` Bank Interest
+By Balance b/d.,3,630
+54
+210
+228
+,,4,122,,,4,122
+,,,,,3,732

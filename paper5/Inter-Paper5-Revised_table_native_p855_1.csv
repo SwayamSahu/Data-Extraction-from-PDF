@@ -1,0 +1,33 @@
+,Particulars,L.F,Debit (`),Credit (`)
+(i),Bills Payable A/c Dr.
+To, Nanda’s A/c
+(Being cancellation of Nanda’s bill for renewal),,5,000,5,000
+,Interest A/c Dr.
+To, Nanda’s A/c
+(Being interest due to Nanda),,125,125
+,Nanda’s A/c Dr.
+To, Bills Payable A/c
+(Being acceptance given for new bill),,5,125,5,125
+(ii),Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Being Nalini’s acceptance retired at discount),,9,900
+100,10,000
+(iii),Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Being Natasha’s acceptance discounted),,3,920
+80,4,000
+(iv),Neela’s A/c Dr.
+To, Bills Receivables A/c
+(Being Neela’s acceptance cancelled for renewal),,3,500,3,500
+,Cash A/c Dr.
+To, Interest A/c
+(Being interest received from Neela in cash),,100,100
+,Bills Receivable A/c Dr.
+To, Neela’s A/c
+(Being Neela acceptance for new bill),,3,500,3,500
+(v),Bills Receivable A/c Dr.
+To, Geeta A/c,,1,200,1,200
+,Geeta A/c Dr.
+To, Bills Receivable A/c,,1,200,1,200

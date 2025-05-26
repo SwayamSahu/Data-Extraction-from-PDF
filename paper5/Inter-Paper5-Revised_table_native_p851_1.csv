@@ -1,0 +1,27 @@
+Date,Particulars,L.F.,Dr.
+(`),Cr.
+(`)
+2013
+April 1,Bills Receivables A/c Dr.
+To, Lala’s A/c
+(Being acceptance by Lala),,1,20,000,1,20,000
+April 5,Kala’s A/c Dr.
+To, Cash A/c
+To, Bills Receivables A/c
+(Being bill endorsed to Kala & cash payment made to him),,1,40,000,20,000
+1,20,000
+July 25,Lala’s A/c Dr.
+To, Kala’s A/c
+(Being cancellation of bill for renewal),,1,20,000,1,20,000
+July 25,Lala’s A/c Dr.
+To, Interest A/c
+(Being interest due from Lala),,4,800,4,800
+July 25,Kala’s A/c Dr.
+To, Bank A/c
+(Being claim of Mr. Kala settled),,1,20,000,1,20,000
+August, 1,Bills Receivables A/c Dr
+To Lala’s A/c
+(Being acceptance by Lala with interest),,1,24,800,1,24,800
+Nov. 31,Bank A/c Dr
+To Bills Receivables A/c
+(Being payment received on due date),,1,24,800,1,24,800

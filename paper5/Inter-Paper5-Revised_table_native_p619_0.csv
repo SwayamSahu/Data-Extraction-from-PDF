@@ -1,0 +1,51 @@
+Date,Particulars,L.F,Amount
+`,Amount
+`
+,Bank Overdraft A/c Dr.
+To Cash A/c
+(Payment of overdraft),,2,000,2,000
+,Realisation A/c Dr.
+To Cash A/c
+To Investments A/c
+To Debtors A/c
+To Furniture A/c
+To Premises A/c
+To Machinery A/c
+To Goodwill A/c
+(Transfer of different assets),,99,000,13,000
+10,000
+10,000
+12,000
+30,000
+15,000
+9,000
+,Provision for Bad Debts A/c Dr.
+Trade Creditors A/c Dr.
+Bills Payable A/c Dr.
+To Realisation A/c
+(Transfer of different Liabilities),,1,000
+20,000
+5,000,26,000
+,M/s XY & Co. A/c Dr.
+To Realisation A/c
+(Purchase consideration due),,80,000,80,000
+,A Capital A/c Dr.
+B Capital A/c Dr.
+To Realisation A/c
+(Furniture taken over by the partners),,6,000
+6,000,12,000
+,General Reserve A/c Dr.
+Investment Fluctuation Fund A/c Dr.
+To A Capital A/c
+To B Capital A/c
+(Reserve and surplus distributed),,8,000
+2,000,5,000
+5,000
+,Realisation A/c Dr.
+To A Capital A/c
+To B Capital A/c
+(Profit on realisation transferred),,19,000,9,500
+9,500
+,A’s Loan A/c Dr.
+To A Capital A/c
+(A’s loan transferred to his Capital A/c),,6,000,6,000

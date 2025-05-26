@@ -1,0 +1,17 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Aditya A/c
+To, Amit A/c
+To, Joint Venture A/c - sales,2,00,000
+1,50,000
+4,00,000,By, Joint Venture A/c : materials
+By, Joint VentureA/c : transport
+By, Joint Venture A/c : advertising
+By, Joint Venture A/c : sundry
+By, Aditya A/c : closing
+By, Amit A/c : closing,2,50,000
+12,000
+7,500
+2,500
+2,59,000
+2,19,000
+,7,50,000,,7,50,000

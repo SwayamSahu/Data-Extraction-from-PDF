@@ -1,0 +1,13 @@
+,Asset
+(` in lakhs),% of provision,Provision
+(` in lakhs)
+Standard,7,000,0.40,28
+Sub-standard,3,000,15,450
+Doubtful (less than one year),,,
+On secured portion,500,25,125
+On unsecured portion,500,100,500
+Doubtful (more than one year but less than three years),,,
+On secured portion,300,40,120
+On unsecured portion,200,100,200
+Doubtful Unsecured (more than three years),300,100,300
+Total provision,,,1,723

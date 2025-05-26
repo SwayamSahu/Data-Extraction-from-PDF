@@ -1,0 +1,14 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Sagar A/c Dr.
+To, Sales A/c
+(Goods sold to Sagar),,1,000,1,000
+,Bills Receivable A/c Dr.
+To, Sagar A/c
+(Bills drawn and accepted by Sagar for 1 month),,1,000,1,000
+,Kamal A/c Dr.
+To, Bills Receivable A/c
+(Bill endorsed to Kamal),,1,000,1,000
+,Sagar A/c Dr.
+To, Kamal A/c
+(Bill endorsed to Kamal dishonoured by Sagar including
+noting charge of ` 10),,1,010,1,010

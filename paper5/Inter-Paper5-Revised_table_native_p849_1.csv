@@ -1,0 +1,12 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Purchase A/c Dr.
+To, Ravi A/c
+(Goods purchased from Ravi),,1,000,1,000
+,Ravi A/c Dr.
+To, Bills Payable A/c
+(Bill accepted for 1 month),,1,000,1,000
+,Bill Payable A/c Dr.
+Noting Charge A/c Dr.
+To, Ravi A/c
+(Bill dishonoured at maturity, noting charge being ` 10),,1,000
+10,1,010

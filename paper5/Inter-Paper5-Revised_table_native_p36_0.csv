@@ -1,0 +1,29 @@
+,Effect of Transaction,Account,To be debited/Credited
+(a),Increase in Cash
+Increase in Capital,Cash A/c
+Capital A/c,Debit
+Credit
+(b),Increase in Stock
+Decrease in Cash,Purchase A/c
+Cash A/c,Debit
+Credit
+(c),Increase in Cash
+Decrease in Stock,Cash A/c
+Sale A/c,Debit
+Credit
+(d),Increase in Expense
+Decrease in Cash,Salary A/c
+Cash A/c,Debit
+Credit
+(e),Increase in Cash
+Increase in Income,Cash A/c
+Interest A/c,Debit
+Credit
+(f),Increase in Stock
+Increase in Liability,Purchase A/c
+Y A/c,Debit
+Credit
+(g),Increase in Expense
+Increase in Capital,Rent A/c
+Capital A/c,Debit
+Credit

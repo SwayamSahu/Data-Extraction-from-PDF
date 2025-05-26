@@ -1,0 +1,40 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+2009
+Dec,31
+Dec,31,To Joint Life Policy A/c
+To, Balance c/d,5,000
+Nil,2009
+Dec,31,By, Profit and Loss A/c,5,000
+,,5,000,,,5,000
+2010
+Dec,31
+Dec,31,To Joint Life Policy A/c
+To, Balanced c/d (SV),4,000
+1,000,2010
+Jan,1
+Dec,31,To, Balance b/d
+By, Profit and Loss A/c,Nil
+5,000
+,,5,000,,,5,000
+2011
+Dec,31
+Dec,31,To Joint Life Policy A/c
+To, Balanced c/d (SV),4,400
+1,600,2011
+Jan,1
+Dec,31,To, Balance b/d
+By, Profit and Loss A/c,1,000
+5,000
+,,6,000,,,6,000
+2012
+Apr,30,To, Partners’ Capital
+- X 57,500
+- Y 28,750
+- Z 28,750,1,15,000,2012
+Jan,1
+Dec,31,To, Balance b/d
+By, Joint Life policy A/c,1,600
+1,13,400
+,,1,15000,,,1,15,000

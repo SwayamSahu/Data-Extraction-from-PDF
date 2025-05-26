@@ -1,0 +1,30 @@
+Date,Particulars,L.F.,Dr. (`),Cr. (`)
+,Bills Receivable A/c Dr.
+To, Anand’s A/c
+(Being bill drawn on Anand),,60,000,60,000
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivables A/c
+(Being discounting of bill),,56,400
+3,600,60,000
+,Anand’s A/c Dr.
+To, Bank A/c
+To, Discount A/c
+(Being 1/3rd proceeds paid to Anand),,20,000,18,800
+1,200
+,Anand’s A/c Dr.
+To, Bills payable A/c
+(being acceptance of bill),,84,000,84,000
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Anand’s A/c
+(Being proceeds of discounting 2nd bill),,14,400
+1,600,16,000
+,Bills Payable A/c Dr.
+To, Anand’s A/c
+(Being dishonour of bill),,84,000,84,000
+,Anand’s A/c Dr.
+To, Bank A/c
+To, Deficiency A/c
+(Being payment of 50% & balance proved to be bad),,56,000,28,000
+28,000

@@ -1,0 +1,4 @@
+ColumnName,DataType
+ID,INT NULL
+EmployeeName,NVARCHAR(255) NULL
+EmployeeEmail,NVARCHAR(255) NULL

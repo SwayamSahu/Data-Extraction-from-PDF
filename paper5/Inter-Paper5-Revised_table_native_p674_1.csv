@@ -1,0 +1,13 @@
+Date,Particulars,`,Date,Particulars,`
+30.6.2012,To balance c/d,7,82,250,01.01.2012,By Plant on Hire
+Purchase A/c,7,45,000
+,,,30.06.2012,By Interest A/c
+[`7,45,000 × 5%],37,250
+,,7,82,250,,,7,82,250
+01.07.2012,To Bank A/c,2,10,000,01.07.2012,By Balance b/d,7,82,250
+31.12.2012,To Balance c/d,6,00,863,31.12.2012,By Interest A/c
+[`5,72,250 × 5%],28,613
+,,8,10,863,,,8,10,863
+05.01.2013,To Machinery A/c,3,75,000,01.01.2013,By Balance b/d,6,00,863
+,To Balance c/d,2,25,863,,,
+,,6,00,863,,,6,00,863

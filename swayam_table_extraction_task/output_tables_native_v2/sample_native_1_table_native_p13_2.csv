@@ -1,0 +1,3 @@
+Column Name,Data Type
+EmpID,FLOAT NULL
+Email,NVARCHAR(255) NULL

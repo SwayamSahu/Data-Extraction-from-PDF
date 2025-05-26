@@ -1,0 +1,15 @@
+,Particulars,L.F.,Dr.
+(`),Cr.
+(`)
+On getting Sohan’s
+acceptance,B/R A/c Dr.
+To, Sohan’s A/c
+(Being the bill accepted by Sohan),,50,000,50,000
+On sending bill for collection,Bill for Collection A/c Dr.
+To, B/R A/c
+(being bill sent to bank for collection),,50,000,50,000
+On payment on due date,Bank A/c Dr.
+Collection Charges A/c Dr.
+To, Bills for Collection A/c
+(being payment received on bill collected),,49,900
+100,50,000

@@ -1,0 +1,49 @@
+,Transaction,Usual Entry,Self-Balancing Entry
+1.,For Credit
+Purchases,Purchase A/c Dr.
+(in General Ledger)
+To, Creditors A/c
+(in Creditors Ledger),General Ledger Adjustment A/c Dr.
+(in Creditors Ledger)
+To, Creditors Ledger Adjustment A/c
+(in General Ledger)
+2.,For Cash paid to
+Creditors,Creditors A/c Dr.
+(in Creditors Ledger)
+To, Cash A/c
+(in General Ledger),Creditors Ledger Adjustment A/c Dr.
+(in General Ledger)
+To, General Ledger Adjustment A/c
+(in Creditors Ledger)
+3.,For
+Discount
+Received from
+Creditors,Creditors A/c Dr.
+(in Creditors Ledger)
+To, Discount Received A/c
+(in General Ledger),Do
+4.,For Bills Accepted
+in favour of
+Creditors,Creditors A/c Dr.
+(in Creditors Ledger)
+To,Bills Payable A/c
+(in General Ledger),Do
+5.,For Purchases
+Return,Creditors A/c Dr.
+(in Creditors Ledger)
+To,Returns Outward A/c
+(in General Ledger),Do
+6.,For Bills Payable
+Dishonoured,Bills Payable A/c Dr.
+(in General Ledger)
+To, Creditors A/c
+(in Creditors Ledger),General Ledger Adjustment A/c Dr.
+(in Creditors Ledger)
+To,Creditors Ledger Adjustment A/c
+(in General Ledger)
+7.,For Interest and
+Charges charged
+by Creditors,Interest / Charges A/c Dr.
+(in General Ledger)
+To, Creditors A/c
+(in Creditors Ledger),Do

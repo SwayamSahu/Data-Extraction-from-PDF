@@ -1,0 +1,47 @@
+No,Transaction,Journal Entry
+(a),Goods sent to Branch by HO,Branch Stock Account (total Value of goods) Dr.
+To Goods sent to Branch (at Cost)
+To Branch Adjustment A/c (loading, if any)
+(b),Goods returned by Branch
+to HO,Goods sent to Branch Account (at Cost) Dr.
+Branch Adjustment A/c (loading, if any) Dr.
+To Branch Stock A/c (total value of goods)
+(c),Assets provided by HO to Branch
+either by way of fresh purchase
+or by way of transfer from HO,Branch Assets Account Dr.
+To (Main) Cash Account/Vendor Account [or]
+To (HO) Assets Account
+(in case of transfer)
+(d),Cash sent to Branch for expenses,Branch Cash Accout Dr.
+To (Main) Cash Account
+(e),Cash Sales at the Branch,Branch Cash Account Dr.
+To Branch Stock Account
+(f),Credit Sales at the Branch,Branch Debtors Account Dr.
+To Branch Stock Account
+(g),Collection from Branch Debtors,Branch Cash Account Dr.
+To Branch Debtors Account
+(h),Sales Returns at the Branch,Branch Stock Account Dr.
+To Branch Debtors Account
+(i),Discounts / Bad Debts etc.,Branch Expenses Account Dr.
+To Branch Debtors Account
+(j),Various expenses incurred at
+Branch,Branch Expenses Account Dr.
+To Branch Cash Account
+(k),Branch Expenses directly met
+by HO,Branch Expenses Account Dr.
+To (Main) Cash Account
+(l),Remittances made by Branch to
+Head Office,(Main) Cash Account Dr.
+To Branch Cash Account
+(m),Goods Lost in Transit/Stolen etc.,Goods Lost in Transit A/c (at cost) Dr.
+Branch Adjustment (loading if any) Dr.
+To Branch Stock Account (total value of goods)
+,At the End of the Year : Closing Entries,
+(n)
+(o),Recording Closing Stock at
+Branch
+Excess of Sale Price over Invoice
+Price,Closing Stock at Branch Account (incl. Loading) Dr.
+To Branch Stock Account
+Branch Stock Account Dr.
+To Branch Adjustment Account

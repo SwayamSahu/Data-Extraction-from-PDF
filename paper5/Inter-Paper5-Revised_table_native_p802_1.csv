@@ -1,0 +1,21 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2012
+Oct. 1
+2013
+Sept. 30
+Oct. 1,To Balance b/d
+,, Discount Allowed A/c
+To Balance b/d,7,600
+50,2013
+Sept. 30,By Bad Debts A/c
+,, Purchases Ledger
+Control A/c
+,, Discount Allowed A/c
+,, Balance c/d,800
+140
+280
+6,430
+,,7,650,,,7,650
+,,6,430,,,

@@ -1,0 +1,4 @@
+StoredProcColumnName,Data type
+@param_DeptId,NVARCHAR(15)
+@param_Year,SMALLINT
+@param_Month,SMALLINT

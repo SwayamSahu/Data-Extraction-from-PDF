@@ -1,0 +1,3 @@
+StoredProcColumnName,DataType
+@param_Date,DATETIME
+@param_DeliveryCenterCode,NVARCHAR(6)

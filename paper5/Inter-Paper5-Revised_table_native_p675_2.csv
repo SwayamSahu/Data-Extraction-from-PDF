@@ -1,0 +1,18 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.2011,To Z’s A/c,6,00,000,31.12.2011,By Depreciation A/c
+By Balance c/d,60,000
+5,40,000
+,,6,00,000,,,6,00,000
+01.01.2012,To Balance b/d,5,40,000,31.12.2012,By Depreciation A/c
+By Balance c/d,60,000
+4,80,000
+,,5,40,000,,,5,40,000
+01.01.2013,To Balance b/d,4,80,000,31.12.2013,By Depreciation A/c
+By Z’s A/c
+By Profit and Loss A/c
+(balancing figure)
+By Balance c/d,60,000
+2,00,000
+80,000
+1,40,000
+,,4,80,000,,,4,80,000

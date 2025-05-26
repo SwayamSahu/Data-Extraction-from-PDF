@@ -1,0 +1,14 @@
+Liabilities,Amount (`),Assets,,Amount (`)
+Bank overdraft,15,000,Cash in hand,,2,500
+Creditors,10,200,Debtors,17,300,
+Bills payable,3,500,Less: Bad debts,(300),
+Loan from Central,,Less: Provision @ 10%,(1,700),15,300
+Bank,20,000,,,
+Outstanding salaries,1,000,Bills receivables,,4,000
+Outstanding interest on loan,1,000,Stock,20,400,
+,,less: Overvalued,(400),20,000
+Combined Capital (balance),101,100,Machinery,,30,000
+,,Furniture,9,800,
+,,add: Undervalued,200,10,000
+,,Building,,70,000
+,1,51,800,,,1,51,800

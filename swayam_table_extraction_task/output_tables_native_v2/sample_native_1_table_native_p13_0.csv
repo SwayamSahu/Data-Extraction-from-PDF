@@ -1,0 +1,7 @@
+Column Name,Data Type
+TypeCode,VARCHAR(10) NOT NULL
+TypeName,VARCHAR(250) NOT NULL
+IsActive,BIT NOT NULL
+DeptId,INT NOT NULL
+CreatedOn,DATETIME NULL
+ModifiedOn,DATETIME NULL

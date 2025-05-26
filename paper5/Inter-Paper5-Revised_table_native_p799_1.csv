@@ -1,0 +1,31 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+2013
+Jan 1
+March 31
+April 1,To Balance b/d
+“ General Ledger
+Adjustment A/c :
+- Sales
+-Bills Receivable
+Dishonoured
+-Cheque Dishonoured
+To Balance b/d,40,000
+50,000
+1,600
+5,000,2013
+Jan 1
+March 31,By General Ledger
+Adjustment A/c :
+Cash
+Discount Allowed
+Bills Receivable
+Bad Debts
+“ Balance c/d,54,000
+2,600
+7,000
+2,100
+30,900
+,,96,600,,,96,600
+,,30,900,,,

@@ -1,0 +1,20 @@
+Particulars,L.F.,Amount
+`,Amount
+`
+(a) Agra Branch A/c Dr.
+To Delhi Branch A/c
+(Being the goods supplied by Delhi Branch to Agra Branch),,50,000,50,000
+(b) Delhi Branch A/c Dr.
+To Agra Branch A/c
+(Being a B/R drawn by Delhi upon Agra Branch),,40,000,40,000
+(c) Delhi Branch A/c Dr.
+To Agra Branch A/c
+(Being Cash sent by Agra Branch to Delhi Branch),,10,000,10,000
+(d) Delhi Branch A/c Dr.
+To Agra Branch A/c
+(Being the goods returned by customer of Agra Branch
+to Delhi Branch),,20,000,20,000
+(e) Agra Branch A/c Dr.
+To Delhi Branch A/c
+(Being the Cash collected by Agra Branch from a
+customer of Delhi Branch,,20,000,20,000

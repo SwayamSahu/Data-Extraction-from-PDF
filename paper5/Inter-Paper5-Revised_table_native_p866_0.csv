@@ -1,0 +1,43 @@
+Situations,Consignor’s books,Consignee’s books
+On sending goods,Consignment A/c Dr.
+To Goods Sent on Consignment,No Entry
+On expenses for
+sending goods,Consignment A/c Dr.
+To Cash/Bank/Creditors for Expenses A/c,No Entry
+For advance received
+from consignee,Cash/ Bank/ Bill Receivables A/c Dr.
+To Consignee’s Personal A/c,Consignor’s Personal A/c Dr.
+To Cash/ Bank/ Bills Payable A/c
+On expenses incurred
+by consignee,Consignment A/c Dr.
+To Consignee’s Personal A/c,Consignor’s Personal A/c Dr.
+To Cash/ Bank/ Creditors for
+expenses A/c
+On consignee
+reporting sales,Consignee’s Personal A/c Dr.
+To Consignment A/c,Cash/ Bank/ Consignment
+Debtors A/c Dr.
+To Consignor’s Personal A/c
+For commission due,Consignment A/c Dr.
+To Consignee’s Personal A/c,Consignor’s Personal A/c Dr.
+To Commission A/c
+For Bad Debts,Consignment A/c Dr.
+To Consignee’s Personal A/c,Consignor’s Personal A/c Dr.
+To Consignment Debtors A/c
+For closing the
+consignment account,For profit :
+Consignment A/c Dr.
+To General Profit and Loss A/c.
+For Loss
+General Profit and Loss A/c Dr.
+To Consignment A/c,No entry
+For the final
+settlement,Cash/ Bank/ B/R A/c Dr.
+To Consignee A/c,Consignor A/c Dr.
+To Cash/ Bank/ B/P A/c
+For closing the Goods
+Sent on Consignment
+Account,Goods sent on Consignment A/c Dr.
+To Trading/ Purchases A/c,No entry
+On closing stock,Stock on Consignment A/c Dr.
+To Consignment A/c,No Entry

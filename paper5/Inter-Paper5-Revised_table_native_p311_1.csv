@@ -1,0 +1,12 @@
+Date,Particulars,L.F,Debit
+(`),Credit
+(`)
+1.4.2012,Z A/c Dr.
+To, Sales A/c
+(Being goods sold on credit to Z),,4,000,4,000
+15.4.2012,Cash A/c Dr.
+To, Z A/c
+(Being cash realized from Z),,3,000,3,000
+8.8.2012,Bad Debts A/c Dr.
+To, Z A/c
+(Being amount due from Z was proved bad),,1,000,1,000

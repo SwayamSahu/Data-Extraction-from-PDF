@@ -1,0 +1,25 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+?,To Debtors Ledger
+Adjustment A/c
+Cash & Cheque
+Received
+Returns Inwards
+Discount Allowed
+B/R
+,, Balance c/d,20,000
+3,000
+2,000
+2,000
+10,220,?,By Balance b/d
+,, Debtors’ Ledger Adjustment A/c
+Sales
+B/R Dishonoured
+Charges
+,, Balance b/d,4,500
+32,000
+700
+20
+,,37,220,,,37,220
+,,,,,10,220

@@ -1,0 +1,21 @@
+Liabilities,Amount,Amount,Assets,Amount,Amount
+Capital Fund
+Add: Building
+Fund (Amount Transferred)
+Building Fund
+Add: Donation
+Less: Amount transferred to
+Capital Fund,15.00,13.00,Building
+Add: Purchase of building
+Bank
+Add: Donation Received
+Less: Purchase of Building,10.00
+15.00,25.00
+20.00
+,8.00
+20.00,,,15.00
+20.00,
+,28.00
+15.00,,,35.00
+15.00,
+,,,,,

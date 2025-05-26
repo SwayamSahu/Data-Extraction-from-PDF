@@ -1,0 +1,10 @@
+Items,Particulars,Increase (`),Decrease (`)
+(a),Decrease in Profit,,500
+(b),No Effect in Profit,-,-
+(c),Increase in Profit,1,000,-
+(d),Decrease in Profit,,900
+(e),Increase in Profit,3,000,-
+(f),Increase in Profit,1,000,-
+,Total,5,000,1,400
+,Increase in Profit,-,3,600
+,,5,000,5,000

@@ -1,0 +1,23 @@
+Date,Particulars,J.
+F.,Amount
+(` ),Date,Particulars,J.
+F.,Amount
+(` )
+,To, Balance b/d
+(receivable)
+To, P & L A/c (balancing figure)
+To, Balance c/d (advance)
+To, Balance b/d
+(receivable),,15,000
+1,20,500
+2,500,,By, Balance b/d
+(advance)
+By, Cash received
+By, Balance c/d
+(receivable)
+By, balance b/d
+(advance),,3,000
+1,16,000
+19,000
+,,,1,38,000,,,,1,38,000
+,,,19,000,,,,2500

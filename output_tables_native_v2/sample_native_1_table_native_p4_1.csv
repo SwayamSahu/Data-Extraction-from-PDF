@@ -1,0 +1,5 @@
+code,NVARCHAR(6) NULL
+descr,NVARCHAR(30) NULL
+type,NVARCHAR(1) NULL
+loccode,NVARCHAR(5) NULL
+,

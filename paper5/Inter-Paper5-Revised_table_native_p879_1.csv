@@ -1,0 +1,36 @@
+Particulars,,Amount
+(`),Particulars,Amount
+(`)
+To Goods Sent on Consignment A/c
+To, Bank A/c
+Freight
+Insurance
+To, Pandey A/c
+Carriage Inward
+Godown Rent
+Selling Expenses
+To, Pandey A/c
+Commission (5% on ` 30,000)
+To, Goods Destroyed by Fire A/c
+Loading
+To, Stock Suspense A/c
+Loading on unsold stock,2,500
+1,500,50,000
+4,000
+7,300
+1,500
+2,000
+3,000,By, Goods Sent on Consignment A/c
+- Loading
+By, Pandey A/c
+Sale Proceeds
+By, Goods Destroyed by Fire A/c
+By, Stock on Consignment A/c,10,000
+30,000
+11,000
+16,800
+,1,800
+3,600
+1,900,,,
+,,,,
+,,67,800,,67,800

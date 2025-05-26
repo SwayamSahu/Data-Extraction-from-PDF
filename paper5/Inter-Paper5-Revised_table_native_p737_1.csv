@@ -1,0 +1,13 @@
+Particulars,L.F.,Amount
+`,Amount
+`
+(a) Goods-in-transit A/c Dr.
+To Thane Branch A/c
+(Being the goods returned by Thane Branch not yet received),,10,000,10,000
+(b) Goods-in-transit A/c Dr.
+To Coimbatore Branch A/c
+(Being the goods sent to Coimbatore Branch not yet received by
+Branch),,20,000,20,000
+(c) Cash-in-transit A/c Dr.
+To Coimbatore Branch A/c
+(Being the Cash sent by Coimbatore Branch not yet received),,50,000,50,000

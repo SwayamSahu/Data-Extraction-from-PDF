@@ -1,0 +1,7 @@
+Column Name,Data Type
+ID,BIGINT IDENTITY(1,1) NOT NULL
+DeliveryCenterCode,NVARCHAR(6) NOT NULL
+DeliveryCenterName,NVARCHAR(30) NOT NULL
+IsActive,BIT NOT NULL (Default: 1)
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

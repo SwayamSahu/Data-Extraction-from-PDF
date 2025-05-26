@@ -1,0 +1,11 @@
+Assets,Amount,% of,Provision
+,`,provision,`
+Standard,4500,0.40*,18
+Sub-standard,3300,15,495
+Doubtful :,,,
+For one year,1350,25,337.5
+For two years,900,40,360
+For three years,600,40,240
+For more than three years,450,100*,450
+Loss,900,100,900
+Required provision,12,000,,2800.5

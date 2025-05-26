@@ -1,0 +1,11 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+To, Opening Stock
+To, Purchase (less returns)
+To, Gross profit (bal. fig.),40,000
+80,000
+60,000,By, Sales (less returns)
+By, Closing Stock,1,20,000
+60,000
+,1,80,000,,1,80,000

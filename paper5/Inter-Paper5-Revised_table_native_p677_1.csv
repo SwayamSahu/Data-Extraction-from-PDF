@@ -1,0 +1,31 @@
+Particulars,Total Cash
+Price
+`,Installment
+Paid @ 10% Int
+`,Interest
+Paid
+`,Paid towards Cash Price
+(Installment-Interest)
+`
+Down Payment
+End of 1st year
+End of 2nd Year
+End of 3rd Year
+Total,280,000
+91,000,91,000
+76,000
+76,000
+76,000,0
+18,900
+13,190
+6,910,91,000
+57,100
+62,810
+69,090
+,189,000
+57,100,,,
+,131,900
+62,810,,,
+,69,090
+69,090,,,
+,0,3,19,000,39,000,2,80,000

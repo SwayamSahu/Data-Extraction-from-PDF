@@ -1,0 +1,16 @@
+Receipts,,,,,,Payments,,,,,
+Date,Particulars,L.F.,Cash
+(`),Bank
+(`),Discount
+Allowed
+(`),Date,Particulars,L.F.,Cash
+(`),Bank
+(`),Discount
+received
+(`)
+1-Jan,Opening Balance,,3,800,27,500,,4-Jan,Wages paid,,1,500,,
+5-Jan,Recd from KBK,,,19,800,200,7-Jan,Consultancy fees,,,7,500,
+10-Jan,Cash withdrawn,,2,500,,,10-Jan,Cash withdrawn,,,2,500,
+12-Jan,Mr. X,,,4,500,500,15-Jan,Mr. X,,,4,500,500
+,,,,,,,Closing balance,,4,800,37,300,
+,,,6,300,51,800,700,,,,6,300,51,800,500

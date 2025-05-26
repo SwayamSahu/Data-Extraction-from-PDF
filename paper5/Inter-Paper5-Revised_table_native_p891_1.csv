@@ -1,0 +1,44 @@
+No.,Transaction,Entry
+1,Contribution of co-venturers,Joint Bank A/c Dr. [with total]
+To, Co-Venturers A/c [with individual sum contributed]
+2,On purchase of goods,Joint Venture A/c Dr.
+To, Joint Bank/ Supplier’s/ Co-Venturers A/c
+3,On making payment to suppliers of
+goods,Supplier’s A/c. Dr. [with total]
+To, Cash/ Joint Bank/ B/P A/c [with payment made]
+To, Joint Venture A/c [with discount received]
+4,On supply of goods out of own
+stock by any of the co-venturers,Joint Venture A/c Dr.
+To, Co-Venturer’s Personal A/c
+4,On payment of expenses,Joint Venture A/c Dr.
+To, Joint Bank/ Co-Venturers A/c
+5,For sale of goods sold,For cash
+Joint Bank A/c Dr.
+To Joint Venture A/c
+For credit
+Customer’s A/c Dr.
+To, Joint Venture A/c
+By any Co-venturers
+Co- Venturer’s A/c Dr.
+To, Joint Venture A/c
+6,On receiving payment from a
+customer,Cash/ Joint Bank/ B/R A/c Dr. [with payment received]
+Joint Venture A/c Dr. [with discount allowed/ bad debts]
+To, Customer’s A/c [with total]
+7,Contract / sale price received in
+form of shares / cash,Joint Bank A/c Dr.
+Shares A/c Dr.
+To Joint Venture A/c
+8,Commission / salary to co-venturers,Joint Venture A/c Dr.
+To Co-Venturers A/c
+9,Unsold goods taken over by co-
+venturers,Co-Venturers A/c Dr.
+To Joint Venture A/c
+10,Shares taken over by co-venturers,Co-Venturers A/c Dr.
+To Shares
+11,If shares are sold in open market,Joint Bank A/c Dr.
+To Shares
+12,For profit on joint venture,Joint Venture A/c Dr.
+To Co-Venturers A/c
+13,For loss on joint venture,Co-Venturers A/c Dr.
+To Joint Venture A/c

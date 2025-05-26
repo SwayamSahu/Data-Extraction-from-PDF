@@ -1,0 +1,34 @@
+Date,Particulars,L/F,Amount
+`,Amount
+`
+2013
+Sept. 30
+(a)
+(b)
+(c)
+(d) (i)
+(ii)
+(e)
+(f),` 206 should be added to Sales Ledger balances and it
+will not affect Control Account.,,,
+,Bad Debts A/c Dr.
+To Sales Ledger Control A/c
+(Bad Debts written-off without recording in general ledger,
+now rectified.),,800,800
+,S’s Account should be credited by ` 500.
+It will not affect Control Account.,,---,---
+,Discount Received A/c Dr.
+To Purchases Ledger Control A/c
+Sales Ledger Control A/c Dr.
+To Discount Allowed A/c
+(Discount previously allowed cancelled, which was wrongly
+treated as discount received, now rectified.),,50
+50,50
+50
+,Purchase Ledger Control A/c Dr.
+To Sales Ledger Control A/c
+(Transfer of debit of Q’s Account to Purchase Ledger, not
+recorded, now rectified.),,140,140
+,Discount Allowed A/c Dr.
+To Sales Ledger Control A/c
+(Discount allowed account undercast, now rectified.),,280,280

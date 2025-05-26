@@ -1,0 +1,25 @@
+Expenditure,Amount (`),Income,Amount (`)
+To, Ground man’s wages
+To, Rent [1,50,000+40,000 - 35,000]
+To, Repairs to pavilion
+To, Cricket equipment
+To, Sundry expenses [7,800+1,200 - 900]
+To, Insurance [750+3,500 - 600]
+To, Depreciation on pavilion
+To, Surplus,3,00,000
+1,55,000
+12,000
+40,000
+8,100
+3,650
+25,000
+47,550,By, Subscriptions
+By, Surplus on tournaments
+By, Bank Interest
+By, Donations
+By, Profit on Bar takings,4,15,000
+38,800
+3,500
+25,000
+1,09,000
+,5,91,300,,5,91,300

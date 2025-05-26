@@ -1,0 +1,39 @@
+Journal A,Journal B,Dr. (`),Cr.(`)
+01.01.2011,,,
+(a) Machines A/c Dr.,(a) A A/c Dr.,7,92,500,
+To B A/c,To HP Sales A/c,,7,92,500
+(b) B A/c Dr.,(b) Bank A/c Dr.,1,58,500,
+To Bank A/c,To A A/c,,1,58,500
+31.12.2011,,,
+(c) Interest A/c Dr.,(c) A A/c Dr.,63,400,
+To B A/c,To Interest A/c,,63,400
+(d) B A/c Dr.,(d) Bank A/c Dr.,2,21,900,
+To Bank A/c,To A A/c,,2,21,900
+(e) Depreciation A/c Dr.,(e) No Entry,1,58,500,
+To Machines A/c,,,1,58,500
+(f) Profit & Loss A/c Dr.,(f) No Entry,1,58,500,
+To Depreciation A/c,,,1,58,500
+(g) Profit & Loss A/c Dr.,(g) Interest A/c Dr.,63,400,
+To Interest A/c,To Profit & Loss A/c,,63,400
+,,,
+31.12.2012,,,
+(a) Interest A/c Dr.,(b) A A/c Dr.,47,550,
+To B A/c,To Interest A/c,,47,550
+(b) B A/c Dr.,(b) Bank A/c Dr.,2,06,050,
+To Bank A/c,To A A/c,,2,06,050
+(c) Depreciation A/c Dr.,(c) No Entry,1,26,800,
+To Machines A/c,,,1,26,800
+(d) Profit & Loss A/c Dr.,(d) No Entry,1,26,800,
+To Depreciation A/c,,,1,26,800
+(e) Profit & Loss A/c Dr.,(e) Interest A/c Dr.,47,550,
+To Interest A/c,To Profit & Loss A/c,,47,550
+,,,
+31.12.2013,,,
+(a) Interest A/c Dr.,(c) A A/c Dr.,31,700,
+To B A/c,To Interest A/c,,31,700
+(b) B A/c Dr.,(b) Bank A/c Dr.,1,90,200,
+To Bank A/c,To A A/c,,1,90,200
+(c) Depreciation A/c Dr.,(c) No Entry,1,01,440,
+To Machines A/c,,,1,01,440
+(d) Profit & Loss A/c Dr.,(d) No Entry,1,01,440,
+To Depreciation A/c,,,1,01,440

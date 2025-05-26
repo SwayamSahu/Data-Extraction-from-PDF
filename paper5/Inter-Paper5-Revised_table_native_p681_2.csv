@@ -1,0 +1,39 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.10
+31.12.10
+31.12.11
+31.12.12
+01.01.13,To Bank A/c
+To Bank (` 7,500 + ` 3,375)
+To Balance c/d
+To Bank A/c
+To Bank c/d
+To Balance c/d
+To Motor A/c
+To Balance c/d,7,500
+10,875
+15,000,01.01.10
+31.12.10
+01.01.11
+31.12.11
+01.01.12
+31.12.12
+01.01.12,By Motor A/c
+By Interest (15% on ` 22,500)
+By Balance b/d
+By Interest (15% on ` 15,000)
+By Balance b/d
+By Interest (15% on ` 7,500)
+By Balance b/d,30,000
+3,375
+,,33,375,,,33,375
+,,9,750
+7,500,,,15,000
+2,250
+,,17,250,,,17,250
+,,8,625,,,7,500
+1,125
+,,8,625,,,8,625
+,,4,320
+4,305,,,8,625
+,,8,625,,,8,625

@@ -1,0 +1,12 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+31.03.13,To Stock Adjustment A/c
+– Transfer
+,, Balance c/d,6,000
+9,700,01.04.12
+31.03.13,By Balance b/d
+,, Branch Stock
+Adjustment A/c,6,000
+9,700
+,,15,700,,,15,700

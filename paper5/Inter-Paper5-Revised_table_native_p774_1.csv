@@ -1,0 +1,9 @@
+a.,Sales as per Books,3,20,000
+b.,Add : Mark-down in opening stock (given),7 4 0
+c.,Add : Mark-down in sales out of current Purchases
+(` 1,400×12,000/16,000),1,050
+d.
+e.,Value of sales if there was no mark-down (a+b+c)
+Less : Gross Profit (40/140 of ` 3,21,790) subject to Mark Down (` 740 + ` 1,050),3,21,790
+91,940
+f.,Cost of sales (d – e),2,29,850

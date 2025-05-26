@@ -1,0 +1,15 @@
+Date,Particulars,Months,Interest
+(`),Amount
+(`),Date,Particulars,Months,Interest,Amount
+(`)
+2013
+July 1,To, Balance b/d
+(W.N. 1),6,240,4,000,2013
+Sept1,By, Cash
+(W.N. 2),4,48,1,200
+Oct 1,To, Sales (W.N. 3),3,72,2,400,Nov 1,By, Cash (W.N. 4),2,72,3,600
+Dec 31,Interest – Contra,,,192,Dec, 31,By,Balance of
+Interest A/c –
+contra,,192,
+,,,,,Dec, 31,By,Balance c/d,,,1,792
+,,,312,6,592,,,,312,6,592

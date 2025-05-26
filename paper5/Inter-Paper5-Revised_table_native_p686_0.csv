@@ -1,0 +1,7 @@
+Transaction,DR,CR
+(1) Cost price of goods sold on hire-
+purchase,Hire-Purchase Trading,Goods sold on H.P
+(2) Installments received from customers,Bank,Hire-Purchase Trading
+(3) Installment due and unpaid (at cost),H.P. Debtors A/c,Hire-Purchase Trading
+(4) Goods with customers on hire at close,Hire-Purchase Stock,Hire-Purchase Trading
+(5) Hire-purchase Trading profit,Hire-Purchase Trading,General Profit and Loss

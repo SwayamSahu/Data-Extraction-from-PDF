@@ -1,0 +1,8 @@
+Column Name,Data Type
+ID,BIGINT IDENTITY(1,1) NOT NULL
+RoleID,INT NOT NULL
+RoleName,NVARCHAR(100) NOT NULL
+IsActive,BIT NOT NULL (Default: 1)
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())
+,

@@ -1,0 +1,9 @@
+Expenditure,Amount (`),Income,Amount (`)
+To Opening stock,1,10,000,By Sales,6,20,000
+To Purchases,600,000,By Issues to hospitals,1,20,000
+To Gross profit c/d,1,10,000,By Closing Stock,80,000
+,8,20,000,,8,20,000
+To Salaries,30,000,By Gross Profit b/d,1,10,000
+To Electricity charges,4,000,,
+To Trust A/c (surplus transferred),76,000,,
+,1,10,000,,1,10,000

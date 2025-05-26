@@ -1,0 +1,3 @@
+StoredProcColumnName,Data type
+@param_OperationId,NVARCHAR(2)
+@param_DeptId,NVARCHAR(10) = NULL

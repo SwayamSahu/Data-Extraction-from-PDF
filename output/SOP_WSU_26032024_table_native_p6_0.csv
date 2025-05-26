@@ -1,0 +1,32 @@
+3,Date of Birth,Major,>3 Years
+,,Minor,< =3 Years
+4,Parent Name
+(edited in this
+version),Major,1. If more than 2 alphabets change
+and the name also gets changed
+phonetically.
+2. If inserting a name for the first
+time.
+3. If expanding the name.
+,,Minor,1. If 2 or less than 2 alphabets get
+changed and the name not changing
+phonetically.
+2. If removing only salutations like
+Shri, Dr., Mr., Mrs., Miss etc.
+5,Relationship,Minor,Father//Mother change
+6,Marital Status,Major,Change after the death of member
+,,Minor,All other cases
+7,Date of Joining,Major,Change after the death of the member
+,,Minor,All other cases
+8,Reason of
+Leaving,Major,Change after the death of the member
+,,Minor,All other cases
+9,Date of Leaving,Major,Change after the death of the member
+,,Minor,All other cases
+10,Nationality,Major,Non-SSA to SSA country
+,,Minor,1. Non-SSA to non-SSA country
+change
+2. SSA to SSA country change
+3. SSA to non-SSA country change
+11,AADHAAR,M ajor,All types of changes or updation related
+to Aadhaar

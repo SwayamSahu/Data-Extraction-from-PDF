@@ -1,0 +1,46 @@
+Date,Particulars,L/F,Amount
+`,Amount
+`
+2009
+Jan. 1.,Assets A/c. Dr.
+To Mr. Y A/c.,,4,000,4,000
+,Mr. Y A/c. Dr.
+To Bank A/c.,,4,000,4,000
+Dec. 31.,Assets A/c. Dr.
+Interest A/c. Dr.
+To Mr. Y A/c.,,4,700
+1,300,6,000
+,Mr. Y A/c. Dr.
+To Bank A/c.,,6,000,6,000
+,Depreciation A/c. Dr.
+To Assets A/c.,,6,000,6,000
+,Profit & Loss A/c. Dr.
+To Interest A/c.
+To Depreciation A/c.,,7,300,1,300
+6,000
+2010
+Dec. 31.,Assets A/c. Dr.
+Interest A/c. Dr.
+To Mr. Y A/c.,,4,935
+1,065,6,000
+,Mr. Y A/c. Dr.
+To Bank A/c.,,6,000,6,000
+,Depreciation A/c. Dr.
+To Assets A/c.,,6,000,6,000
+,Profit & Loss A/c. Dr.
+To Interest A/c.
+To Depreciation A/c.,,7,065,1,065
+6,000
+2011
+Dec. 31.,Assets A/c. Dr.
+Interest A/c. Dr.
+To Mr. Y A/c.,,5,182
+818,6,000
+,Mr. Y A/c. Dr.
+To Bank A/c.,,6,000,6,000
+,Depreciation A/c. Dr.
+To Assets A/c.,,6,000,6,000
+,Profit & Loss A/c. Dr.
+To Interest A/c.
+To Depreciation A/c.,,6,818,818
+6,000

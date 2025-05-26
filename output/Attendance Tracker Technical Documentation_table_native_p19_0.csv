@@ -1,0 +1,3 @@
+StoredProcColumnName,Data type
+@param_LoggedInUserEmail,NVARCHAR(255)
+@param_WatchListID,BIGINT

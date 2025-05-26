@@ -1,0 +1,25 @@
+Sl. No.,Particulars,L.F.,Amount (`),Amount (`)
+(a),Accrued Income A/c Dr.
+Prepaid Expenses A/c Dr.
+To, Profit and Loss Adjustment A/c
+(Bringing into account the accrued income, prepaid
+expenses for converting the cash basis of accounting into
+accrual basis),,-
+-,-
+(b),Profit and Loss Adjustment A/c Dr.
+To, Income Received in Advance A/c
+To, Outstanding Expenses A/c
+(Bringing into account the income received in advance
+and outstanding expenses for converting the cash basis of
+accounting into accrual basis),,-,-
+-
+(c),If there is a profit as a result of above adjustment-
+Profit and Loss Adjustment A/c Dr.
+To, Capital A/c
+(Profit transferred to capital account as a result of conversion
+from cash basis to accrual basis.),,-,-
+,If there is a loss as a result of above adjustment-
+Capital A/c Dr.
+To, Profit and Loss Adjustment A/c
+(Loss transferred to capital account as a result of conversion
+from cash basis to accrual basis.),,-,-

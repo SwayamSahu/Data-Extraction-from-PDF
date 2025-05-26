@@ -1,0 +1,17 @@
+When reconciliation is started with ,Bal. as per
+CB,OD as per
+CB,Bal as per
+PB,OD as per
+PB
+Cheques deposited in Bank, but not cleared,Less,Add,Add,Less
+Cheques issued, but not presented in Bank,Add,Less,Less,Add
+Bank charges debited in PB only,Less,Add,Add,Less
+Interest debited in PB only,Less,Add,Add,Less
+Payments by Bank debited in PB only,Less,Add,Add,Less
+Direct payment by customer in PB only,Add,Less,Less,Add
+Bills discounted & dishonoured in PB only,Less,Add,Add,Less
+Cheques deposited, dishonoured in PB only,Less,Add,Add,Less
+Interest, Dividend, Commission collected
+by Bank not recorded in the Cash Book,Add,Less,Less,Add
+Overcasting of payment side of Cash Book or
+Undercasting of Receipt side of Cash Book,Add,Less,Less,Add

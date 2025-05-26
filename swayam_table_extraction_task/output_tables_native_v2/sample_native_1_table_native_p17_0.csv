@@ -1,0 +1,3 @@
+StoredProcColumnName,Data type
+@param_EmpID,NVARCHAR(10)
+@param_Date,NVARCHAR(10)

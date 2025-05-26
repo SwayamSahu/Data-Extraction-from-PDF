@@ -1,0 +1,22 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Goods Sent on Consignment A/c
+To, Bank A/c
+(freight, Insurance & Sundries)
+To, M/s Jyoti Electric House’s A/c
+Expenses
+Commission
+To, Stock Reserve A/c
+(loading on stock)
+To, P & L A/c,13,44,000
+12,000
+18,000
+120,000
+56,000
+2,16,000,By, M/s Jyoti Electric House’s A/c
+By, Goods Sent on Consignment A/c
+(loading)
+By, Consignment Stock A/c
+(@ invoice value),12,00,000
+2,24,000
+3,42,000
+,17,66,000,,17,66,000

@@ -1,0 +1,11 @@
+Transaction,DR,CR
+(1) Goods sold on hire-purchase at hire-
+purchase selling price,Hire-Purchase Debtors,Hire-Purchase Sales
+(2) Deposits and installments received
+from customers.,Bank,Hire-Purchase Debtors
+(3) Installment due and unpaid.,Installment Due,Hire- Purchase Debtors
+(4) Balance in hire-purchase sales,Hire-Purchase Sales,Hire-Purchase Trading
+(5) Cost price of goods sold on hire-
+purchase.,Hire-Purchase Trading,Purchases/Trading
+(6) Provision for unrealized profit.,Hire-Purchase Trading,H.P. Adjustment A/c
+(7) Hire-Purchase Trading profit,Hire-Purchase Trading,General Profit and Loss

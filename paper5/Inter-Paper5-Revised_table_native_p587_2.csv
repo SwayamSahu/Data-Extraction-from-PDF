@@ -1,0 +1,70 @@
+Particular,Ratio,Total
+`,L
+`,M
+`,S
+`
+A Balance Due
+B Less : Amount paid out of
+2nd instalment
+C Balance Due (A-B)
+D Less : Amount paid out of
+3rd Instalment
+First ` 1,00,000
+Next ` 10,00,000
+Balance ` 4,00,000
+E Balance Due (C-D)
+F Less: Amount paid out of
+4th Instalment
+G Balance Due (F - G)
+H Less: Amount paid out of
+5th Instalment
+I Balance Due (G - H)
+– Realisation profit,1 : 0 : 0
+1 : 1 : 0
+1 : 1 : 1
+1 : 1 : 1
+1 : 1 : 1,30,00,000
+4,00,000
+26,00,000
+1,00,000
+10,00,000
+4,00,000
+11,00,000
+30,00,000
+(19,00,000)
+30,00,000
+(49,00,000)
+Nil,15,00,000
+4,00,000
+11,00,000
+1,00,000
+5,00,000
+1,33,334
+3,66,666
+10,00,000
+(6,33,334)
+10,00,000
+(16,33,334)
+Nil,10,00,000
+—
+10,00,000
+—
+5,00,000
+1,33,333
+3,66,666
+10,00,000
+(6,33,334)
+10,00,000
+(16,33,334)
+Nil,5,00,000
+—
+5,00,000
+—
+—
+1,33,333
+3,66,667
+10,00,000
+(6,33,334)
+10,00,000
+(16,33,334)
+Nil

@@ -1,0 +1,23 @@
+Particulars,X,Y,Z,Q,Particulars,X,Y,Z,Q
+To Cash A/c
+(Final
+settlement)
+To Balance c/d,2,70,000
+-,-
+1,00,000,-
+2,00,000,-
+1,00,000,By Balance b/d
+“ X’s Current A/c
+(Transfer)
+“ Cash A/c
+(Capital
+introduced),1,00,000
+1,70,000
+-,1,00,000
+-
+-,2,00,000
+-
+-,-
+-
+1,00,000
+,2,70,000,1,00,000,2,00,000,1,00,000,,2,70,000,1,00,000,2,00,000,1,00,000

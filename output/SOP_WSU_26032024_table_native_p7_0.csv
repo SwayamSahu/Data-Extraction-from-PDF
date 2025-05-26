@@ -1,0 +1,11 @@
+Sr. No,Parameter,Approver,Verifier,Initiator
+1,Member Name,RPFC-II/APFC,SS,DA
+2,Parent Name,RPFC-II/APFC,SS,DA
+3,Nationality,APFC,SS,DA
+4,Date of Birth (<=3 years),AO,SS,DA
+5,Marital Status,-,SS,DA
+6,Date of Joining,AO,SS,DA
+7,Date of Leaving,AO,SS,DA
+8,Reason of Leaving,AO,SS,DA
+9,Gender,-,SS,DA
+10,Relationship,-,SS,DA

@@ -1,0 +1,36 @@
+,Step-I,Step-II,Step-III,Step-IV
+(a),Cash A/c
+Capital A/c,Real
+Personal,Comes in
+Giver,Debit
+Credit
+(b),Purchase A/c
+Cash A/c,Nominal
+Real,Expenses
+Goes out,Debit
+Credit
+(c),Cash A/c
+Sales A/c,Real
+Nominal,Comes in
+Incomes,Debit
+Credit
+(d),Salary A/c
+Cash A/c,Nominal
+Real,Expenses
+Goes out,Debit
+Credit
+(e),Cash A/c
+Interest A/c,Real
+Nominal,Comes in
+Incomes,Debit
+Credit
+(f),Purchase A/c
+Y’ A/c,Nominal
+Personal,Expenses
+Giver,Debit
+Credit
+(g),Rent A/c
+Capital A/c,Nominal
+Personal,Expenses
+Giver,Debit
+Credit

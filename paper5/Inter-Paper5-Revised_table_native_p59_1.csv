@@ -1,0 +1,45 @@
+Date,Particulars,Voucher
+number,L.F,Amount (`),Amount (`)
+01-04-2013,Cash A/c Dr.
+To Vikas’s Capital A/c
+To Vaibhavi’s Capital A/c
+(Being capital brought in by the partners),,1
+2
+3,7,50,000,5,00,000
+2,50,000
+10-04-2013,Furniture A/c Dr.
+To Cash A/c
+(Being furniture purchased in cash),2013/F/3,4
+1,25,000,25,000
+11-04-2013,Punjab National Bank A/c Dr.
+To Cash A/c
+(Being current account opened with
+Punjab National Bank by depositing cash),,5
+1,1,00,000,1,00,000
+15-04-2013,Rent A/c Dr.
+To Punjab National Bank A/c
+(being rent paid to Realtors Properties for
+the month),3,6
+5,15,000,15,000
+20-04-2013,Motor Car A/c Dr.
+To Punjab National Bank A/c
+To Loan from HDFC Bank A/c
+(Being car purchased from Millennium
+Motors by paying down payment and
+loan arrangement),M/13/7,7
+5
+8,4,50,000,50,000
+4,00,000
+25-04-2013,Punjab National Bank A/c Dr.
+Avon Pharmaceuticals A/c Dr.
+To Consultancy Fees A/c
+(Being amount received and revenue
+recognized for fees charged),B13/4/1,5
+9
+10,2,50,000
+7,50,000,10,00,000
+30-04-2013,Salary A/c Dr.
+To Salary payable A/c
+(Being the entry to record salary
+obligation for the month),,11
+12,15,000,15,000

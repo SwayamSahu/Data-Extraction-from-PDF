@@ -1,0 +1,19 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2009,To Bank A/c,75,000,2009,By Royalty A/c
+” Short-working A/c,34,500
+40,500
+,,75,000,,,75,000
+2010,To Bank A/c,75,000,2010,By Royalty A/c
+” Short-working A/c,54,000
+21,000
+,,75,000,,,75,000
+2011,To Bank A/c,75,000,2011,By Royalty A/c,75,000
+,,75,000,,,75,000
+2012,To Bank A/c
+To Short-Working A/c,75,000
+7,500,2012,By Royalty A/c,82,500
+,,82,500,,,82,500
+2013,To Bank A/c,1,24,500,2013,By Royalty A/c,1,24,500
+,,1,24,500,,,1,24,500

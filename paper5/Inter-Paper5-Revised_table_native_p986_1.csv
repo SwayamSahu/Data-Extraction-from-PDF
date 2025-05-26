@@ -1,0 +1,7 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+1.4.11,To, Discount on bills A/c,18.00,1.4.11,By Balance b/d,18.00
+31.3.12,To Balance c/d,21.60,31.3.12,By Discount on bills A/c
+(Rebate required),21.600
+,,39.60,,,39.60

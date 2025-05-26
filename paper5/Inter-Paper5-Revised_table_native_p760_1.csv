@@ -1,0 +1,22 @@
+Particulars,Department A
+`,Department B
+`,Department C
+`
+Profit after charging manager’s commission.
+Add back: Manager’s Commission @ 1/9th
+Less: Unrealised Profit on stock
+Profit before charging Manager’s Commission
+Less: Manager’s Commission @10%
+Correct profit after charging commission,72,000
+8,000,54,000
+6,000,36,000
+4,000
+,80,000
+8,000,60,000
+9,000,40,000
+4,000*
+,72,000
+7,200,51,000
+5,100,36,000
+3,600
+,64,800,45,900,32,400

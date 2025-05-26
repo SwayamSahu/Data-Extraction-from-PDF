@@ -1,0 +1,32 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+30.6.10
+01.07.10
+30.6.11
+01.7.11
+30.6.12
+01.7.13,To, Bank A/c.
+To, Balance b/d
+To, Bank A/c. (`1,160 + ` 23,200)
+To, Balance b/d
+To, Bank A/c. (`2,378 + ` 23,200)
+To, Balance b/d,23,200,30.6.10
+30.6.11
+30.6.12
+30.6.13,By, Balance c/d
+By, Balance c/d
+By, Balance c/d
+By, Bank A/c - Sales
+By, Sinking Fund A/c – Loss on sale
+(balancing figure),23,200
+,,23,200,,,23,200
+,,23,200
+24,360,,,47,560
+,,47,560,,,47,560
+,,47,560
+25,578,,,73,138
+,,73,138,,,73,138
+,,73,138,,,69,481
+3,657
+,,73,138,,,73,138

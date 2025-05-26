@@ -1,0 +1,17 @@
+Path,Component
+/,Datatable
+/dashboard,Dashboard
+/EmpHistory/:empId/:year/:month,EmployeeHistory
+/watchlist,Watchlist
+/watchlistform,Watchlistform with Theme
+/watchlistform/:id,EditWatchlistForm
+/Updatepage,Updatepage
+/EmployeeStatus,EmployeeStatus
+/DepartmentDayWiseReport,DepartmentDayWiseReport
+/DepartmentMonthWiseReport/:operationId/:deptId/:year/:month/:subDep
+tId,DepartmentMonthWiseRep
+ort with Theme
+/DepartmentMonthWiseReport/:operationId/:deptId/:year/:month,OldDeptMonthWiseReport
+with Theme
+/Login,Loginpage
+*,PageNotFound

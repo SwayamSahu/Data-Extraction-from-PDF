@@ -1,0 +1,17 @@
+Sr. No.,Parameter,Type Of
+Change,Description Of Correction/Change
+1,Member Name,Major,1. If more than 2 alphabets change and
+the name also gets changed
+phonetically.
+2. if less than 2 alphabets change and
+the name also gets changed
+phonetically.
+3. If expanding the name.
+,,Minor,1. If 2 or less than 2 alphabets get
+changed and the name not changing
+phonetically.
+2. If adding surname in case of female
+after marriage.
+4. If removing salutations like Shri, Dr.
+Mr. Mrs., Miss etc.
+2,Gender,Minor,Male/Female/Others change

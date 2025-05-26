@@ -1,0 +1,10 @@
+Date,Particulars,Voucher
+number,Ledger folio,Debit amount
+(`),Credit amount
+(`)
+dd-mm-yy,Name of A/c to be debited
+Name of A/c to be credited
+(narration describing the
+transaction),-----------,Reference of
+page number of
+the A/c in ledger,-----------,-----------

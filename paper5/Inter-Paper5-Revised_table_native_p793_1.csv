@@ -1,0 +1,47 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2013
+Jan. 1
+Dec. 31
+2014
+Jan. 1,To Balance b/d
+,, Creditors Ledger
+Adjustment A/c:
+Purchases
+Bills Payable Withdrawn
+Bills Receivable
+Dishonoured (as
+endorsed)
+Interest
+,, Balance c/d
+To Balance b/d,15,000
+8,000
+500
+300
+20
+350,2013
+Jan. 1
+Dec.31
+2014
+Jan. 1,By Balance b/d
+Creditors Ledger
+Adjustment A/c
+Cash
+Discount Received
+(9,000 – 8,500)
+Returns Outward
+Bills Payable
+Bills Receivable endorsed
+Transfer
+,, Balance c/d
+By Balance b/d,200
+8,500
+500
+700
+2,000
+800
+600
+10,870
+,,24,170,,,24,170
+,,10,870,,,350

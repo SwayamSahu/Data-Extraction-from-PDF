@@ -1,0 +1,56 @@
+Transactions,Drawer’s Books,Drawee’s Books
+When the bill is drawn
+and accepted,Bills Receivable A/c ... Dr.
+To Drawee’s A/c,Drawer’s A/c ... Dr.
+To Bills Payable A/c
+When the bill is duly
+honoured on maturity,Bank A/c ... Dr.
+To Bills Receivable A/c
+(This entry will be made if the drawer retains the
+bill till due date and receives payment),Bills Payable A/c ... Dr.
+To Bank A/c
+When the bill is
+endorsed to a creditor,Endorsee’s A/c ... Dr.
+To Bills Receivable A/c,
+When the bill is
+discounted with the
+bank,(i) Bank A/c ... Dr.
+To Bills Receivable A/c
+(with full amount of the bill),
+,(ii) Discount on Bills A/c ... Dr.
+To Bank A/c
+(with the amount of discount),
+,Alternative combined entry :
+Bank A/c ... Dr.
+Discount on B ills A/c ... Dr.
+To Bills Receivable A/c,
+When the bill is sent
+to bank for collection
+and the bill is duly
+collected,(i) When sent:
+Bills for Collection A/c ... Dr.
+To Bills Receivable A/c,
+,(ii) When collected:
+Bank A/c ... Dr.
+To Bills for Collection A/c,
+When the bill is retired
+before maturity,Bank A/c ... Dr.
+Discount on Bills
+(or Rebate) A/c ... Dr.
+To Bills Receivable A/c,Bills Payable A/c ... Dr.
+To Bank A/c
+`` Discount on Bills
+(or Rebate) A/c
+When the bill is
+dishonoured,(i) If retained by the drawer till maturity:
+Drawee’s A/c ... Dr.
+To Bills Receivable A/c,Bills Payable A/c ... Dr.
+To Drawer’s A/c
+,(ii) If discounted with Bank
+Drawee’s A/c ... Dr.
+To Bank A/c,Bills Payable A/c ... Dr.
+To Drawer’s A/c
+,(iii) If endorsed to a creditor:
+Drawee’s A/c ... Dr.
+To Endorsee’s A/c,Bills Payable A/c ... Dr.
+To Drawer’s A/c

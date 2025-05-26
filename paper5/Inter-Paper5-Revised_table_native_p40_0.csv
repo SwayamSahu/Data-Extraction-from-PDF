@@ -1,0 +1,29 @@
+Date,Transaction,Assets =,Liabilities +,Capital
+January, 2013
+1,Invested Capital in the firm, ` 20,000,20,000,-,20,000
+2,Purchased goods on credit from Das &
+Co. ` 2,000,+2,000,+2,000,-
+,Revised Equation,22,000 =,2,000 +,20,000
+4,Bought Plant for cash ` 8,000,+8,000
+-8,000,-,-
+,Revised Equation,22,000 =,2,000 +,20,000
+8,Purchased goods for cash ` 4,000,+4,000
+-4,000,-
+-,-
+-
+,Revised Equation,22,000 =,2,000 +,20,000
+12,Sold Goods for cash (Cost ` 4,000 + Profit
+` 2,000),+6,000
+-4,000,,+2,000
+,Revised Equation,24,000,2,000 +,22,000
+18,Paid to Das & Co. for ` 1,000,-1,000,-1,000,
+,Revised Equation,23,000 =,1,000 +,22,000
+22,Received from B.Banerjee for ` 300,+300
+-300,,
+,Revised Equation,23,000 =,1,000 +,22,000
+25,Paid salary for ` 6,000,- 6,000,,-6,000
+,Revised Equation,17,000 =,1,000 +,16,000
+30,Received Interest for ` 5,000,+5,000,,+5,000
+,Revised Equation,22,000 =,1,000 +,21,000
+31,Paid Wages for `3,000,-3,000,,-3,000
+,Revised Equation,19,000 =,1,000 +,18,000

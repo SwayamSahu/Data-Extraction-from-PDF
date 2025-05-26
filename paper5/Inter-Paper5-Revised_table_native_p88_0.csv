@@ -1,0 +1,35 @@
+10-Jun,Cash A/c Dr.
+Vishakha’s A/c Dr.
+To Sales A/c
+(Being goods sold at 30% TD & 30% amount
+received in cash),,6,300
+14,700,21,000
+12-Jun,Bank A/c Dr.
+To Cash A/c
+(Being cash deposited in bank),,20,000,20,000
+15-Jun,Loss by Fire A/c Dr.
+To Purchases A/c
+(Being uninsured goods lost by fire),,5,500,5,500
+19-Jun,Cash A/c Dr.
+To Commission A/c
+(Being commission received),,3,500,3,500
+22-Jun,Aniket’s A/c Dr.
+To Cash A/c
+To Discount A/c
+(Being paid to Aniket in full settlement & discount
+received),,25,600,25,500
+100
+25-Jun,Loss by Theft A/c Dr.
+To Cash A/c
+(Being cash stolen),,1,000,1,000
+27-Jun,Cash A/c Dr.
+Discount A/c
+To Vishakha’s A/c
+(Being amount received from Vishakha & discount
+allowed),,14,500
+200,14,700
+30-Jun,Bank A/c
+To Interest A/c
+(Being interest received directly added into bank
+account),,2,400,2,400
+,,,1,150,700,1,150,700

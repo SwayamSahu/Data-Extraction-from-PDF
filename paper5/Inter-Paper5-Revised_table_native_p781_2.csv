@@ -1,0 +1,50 @@
+Date,Particulars,Amount,Date,Particulars,Amount
+Op. Dt
+Cl. Dt,To, Balance b/d
+“ General Ledger Adjustment A/c
+Credit Sales
+“ Carriage and Sundry Charges
+Debited to customer-
+“ Bills Receivable Dishonoured
+“ Cheque received and
+dishonoured
+“ Interest and Charges etc.
+“ Refund- Cash paid to
+customers
+“ B/R discounted and
+dishonoured
+“ B/R endorsed and dishonoured
+“ Interest charged to overdue
+account
+“ Balance c/d (if any),**
+**
+**
+**
+**
+**
+**
+**
+**
+**
+**,Op. Dt
+Cl. Dt,By, Balance b/d (if any)
+“ General Ledger
+Adjustment A/c:
+“ Cash/ Cheque received
+“ Bad Debts
+“ Return Inward
+“ Discount Allowed
+“ Other Allowances
+“ Bills Receivable
+“ Transfer to or from other
+Ledgers
+“ Balance c/d,**
+**
+**
+**
+**
+**
+**
+**
+**
+,,**,,,**

@@ -1,0 +1,25 @@
+Machine
+No,Cost of
+Machine
+(`),Expenses incurred at
+the time of purchase
+to be capitalize
+(`),Total Cost
+of Asset =
+(b+c)
+(`),Estimated
+Residual
+Value
+(`),Expected
+Useful Life
+in years,Depreciation
+= (d-e)/f
+(`),Rate of
+Depreciation
+under SLM =
+(g/d)×100
+a,b,c,d,e,f,g,h
+1,90,000,10,000,1,00,000,20,000,8,10,000,10%
+2,24,000,7,000,31,000,3,100,6,4,650,15%
+3,1,05,000,20,000,1,25,000,12,500,5,22,500,18%
+4,2,50,000,30,000,2,80,000,56,000,10,22,400,8%

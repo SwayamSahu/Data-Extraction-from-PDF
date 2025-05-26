@@ -1,0 +1,22 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Bills Discounted A/c Dr.
+To, Slow Current A/c
+To, Discount A/c
+(Bill discounted which is due for 3 months.),,6,000,5,820
+180
+,Noting Charges A/c Dr.
+To, Cash A/c
+(Noting charges incurred for dishonor of the bill.),,20,20
+,Slow Current Account A/c Dr.
+To, Bills discounted A/c
+To, Noting Charges A/c
+(Bill dishonoured, noting charge being ` 20.),,6,020,6,000
+20
+,Bills Discount A/c Dr.
+To, Slim Current A/c
+To, Discount A/c
+(Bill discounted which is due for 3 months.),,5,040,5,000
+40
+,Slim Current A/c Dr.
+To, Bills Discounted A/c
+(Bill dishonored at maturity.),,5,040,5,040

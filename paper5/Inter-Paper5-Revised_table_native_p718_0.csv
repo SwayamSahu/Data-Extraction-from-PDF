@@ -1,0 +1,16 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+Opening Stock (Invoice Price)
+Goods sent to Branch (,,)
+Goods return to H.O. (,,)
+Goods lost in transit (,,),20,000
+1,20,000
+5,000
+5,000,Normal Loss (Invoice Price)
+Pilferage of Stock (,,)
+Cash Sales
+Closing Stock (,,),1,000
+2,000
+97,000
+30,000

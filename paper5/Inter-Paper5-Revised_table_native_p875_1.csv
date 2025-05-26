@@ -1,0 +1,31 @@
+Particulars,Amount
+(`),Particulars,Amount
+(`)
+To, Goods Sent on Consignment A/c
+To, Bank A/c – Expenses
+To, Y A/c
+- Freight and Misc. Expenses
+- Godown Rent
+To, Abnormal Loss A/c (Loading)
+To, Stock surplus A/c
+To, Y A/c
+- Commission (ordinary) @ 10%
+- Del credere Commission @ 5%
+To, Profit and Loss A/c
+- Profit on Consignment A/c,50,000
+5,000
+4,000
+3,000
+2,000
+2,000
+5,000
+2,500
+9,500,By, Goods Sent on Consignment A/c
+(Loading) (` 50,000x25/125)
+By, Y A/c – Sale Proceeds
+By, Abnormal Loss A/c
+By, Stock on Consignment A/c,10,000
+50,000
+11,000
+12,000
+,83,000,,83,000

@@ -1,0 +1,18 @@
+Date,Particulars,L/F,Amount
+`,Amount
+`
+2009
+Jan. 1.,Assets A/c. Dr.
+To Mr. Y A/c.,,30,000,30,000
+,Mr. Y A/c. Dr.
+To Bank A/c.,,4,000,4,000
+Dec. 31.,Interest A/c. Dr.
+To Mr. Y A/c.,,1,300,1,300
+,Mr. Y A/c. Dr.
+To Bank A/c.,,6,000,6,000
+,Depreciation A/c. Dr.
+To Assets A/c.,,6,000,6,000
+,Profit & Loss A/c. Dr.
+To Interest A/c.
+To Depreciation A/c.,,7,300,1,300
+6,000

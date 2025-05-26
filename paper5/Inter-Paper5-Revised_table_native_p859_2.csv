@@ -1,0 +1,8 @@
+Particulars,Amount `,Particulars,Amount `
+To, Bank A/c,18,800,By B/R A/c,60,000
+To, Discount A/c,1,200,By Bank A/c,14,400
+To, B/P A/c,84,000,By Discount A/c,1,600
+,,By B/P A/c,84,000
+To, Bank A/c,28,000,,
+To, Deficiency A/c,28,000,,
+,1,60,000,,1,60,000

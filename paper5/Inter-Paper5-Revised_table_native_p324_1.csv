@@ -1,0 +1,15 @@
+Date,Particulars,Amount (`),Date,Particulars,Amount (`)
+2012
+Dec, 31
+2013
+Dec, 31,To, Sundry Debtors A/c
+To, Sundry Debtors A/c,6,000,2012
+Dec, 31
+2013
+Dec, 31,By, Provision for Bad Debts A/c
+-Transfer
+By, Provision for Bad Debts A/c
+-Transfer,6,000
+,,6,000,,,6,000
+,,1,000,,,1,000
+,,1,000,,,1,000

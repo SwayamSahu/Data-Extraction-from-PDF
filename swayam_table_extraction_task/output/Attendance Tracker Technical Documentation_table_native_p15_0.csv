@@ -1,0 +1,10 @@
+ID,BIGINT IDENTITY(1,1) NOT NULL
+WatchListName,NVARCHAR(100) NOT NULL
+WatchListDescription,NVARCHAR(255) NOT NULL (Default: '')
+WatchListPrimaryOwnerName,NVARCHAR(255) NOT NULL
+WatchListPrimaryOwnerEmail,NVARCHAR(255) NOT NULL
+WatchListSecondaryOwnerName,NVARCHAR(255) NOT NULL (Default: '')
+WatchListSecondaryOwnerEmail,NVARCHAR(255) NOT NULL (Default: '')
+IsActive,BIT NOT NULL (Default: 1)
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

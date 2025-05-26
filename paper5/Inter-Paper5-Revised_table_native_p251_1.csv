@@ -1,0 +1,11 @@
+Days outstanding,Amount
+(`),Probability of
+collection,Provision required,Provision
+Amount (` )
+Less than 16,4,50,000,0.99,1%,4,500
+16 – 30,1,50,000,0.94,6%,9,000
+31 – 45,75,000,0.80,20%,15,000
+46 – 60,45,000,0.65,35%,15,750
+61 – 75,15,000,0.50,50%,7,500
+Over 75,15,000,0.00,100%,15,000
+Total,7,50,000,,,66,750

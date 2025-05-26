@@ -1,0 +1,16 @@
+Date,Particulars,L.F,Amount
+`,Amount
+`
+,Building A/c Dr.
+To Revaluation A/c
+(Increase in the Value of Building),,15,000,15,000
+,Revaluation A/c Dr.
+To Stock A/c
+To Provision for Bad Debt A/c
+(Decrease in the value of assets ),,1,000,800
+200
+,Revaluation A/c Dr.
+To X Capital A/c
+To Y Capital A/c
+(Profit on revaluation transferred),,14,000,10,500
+3,500

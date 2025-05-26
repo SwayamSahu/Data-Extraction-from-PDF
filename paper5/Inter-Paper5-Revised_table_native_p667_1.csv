@@ -1,0 +1,15 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.11,To Sales A/c,7,92,500,01.01.11,By Bank A/c
+[Down payment],1,58,500
+31.12.11,To Interest A/c,63,400,31.12.11,By Bank A/c,2,21,900
+,,,,By Balance c/d,4,75,500
+,,8,55,900,,,8,55,900
+01.01.12,To Balance b/d,4,75,500,31.12.12,By Bank A/c,2,06,050
+31.12.12,To Interest A/c,47,550,31.12.12,By Balance c/d,3,17,000
+,,5,23,050,,,5,23,050
+01.01.13,To Balance b/d,3,17,000,31.12.13,By Bank A/c,1,90,200
+31.12.13,To Interest A/c,31,700,,By Balance c/d,1,58,500
+,,3,48,700,,,3,48,700
+01.01.14,To Balance b/d,1,58,500,31.12.14,By Bank A/c,1,74,350
+31.12.14,To Interest A/c,15,850,,,
+,,1,74,350,,,1,74,350

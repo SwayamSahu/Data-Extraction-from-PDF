@@ -1,0 +1,11 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Bank : Cost of Shares
+To, Bank : Rent and Solicitor’s Charges
+To, Share of Profit,30,000
+5,000
+18,250,By, Bank : Commission
+By, Bank : Sale Proceeds
+By, Bank (Remittance),20,000
+18,000
+15,250
+,53,250,,53,250

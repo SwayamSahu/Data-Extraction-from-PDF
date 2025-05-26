@@ -1,0 +1,52 @@
+Date,Particulars,L.F,Amount
+`,Amount
+`
+31.3.13,Realisalion A/c Dr.
+To Fixed Assets A/c
+To Stock-in-trade A/c
+To Sundry Debtors A/c
+(Different Assets transferred),,6,00,000,4,80,000
+45,000
+75,000
+,Creditors A/c Dr.
+To Realisation A/c
+(Sundry creditors transferred),,1,80,000,1,80,000
+,P. Ltd A/c Dr.
+To Realisation A/c
+(Purchase consideration due),,7,20,000,7,20,000
+,Bank A/c Dr.
+Debentures in P Ltd. Dr.
+Shares in P Ltd. Dr.
+To P. Ltd A/c
+(Purchase consideration Received),,3,60,000
+1,80,000
+1,80,000,7,20,000
+,Bank A/c Dr.
+To Realisation A/c
+(Debtors realized),,60,000,60,000
+,Realisation A/c Dr.
+To Bank A/c
+(Payment to Creditors),,1,71,000,1,71,000
+,Realisation A/c Dr.
+To X Capital A/c
+To Y Capital A/c
+(Profit on realisation transferred to Capital Account),,1,89,000,1,13,400
+75,600
+,Loan from X Dr.
+To X Capital
+(Loan Balance transferred),,2,10,000,2,10,000
+,X Capital A/c Dr.
+To Y Capital A/c
+(Adjustment for compensation),,30,000,30,000
+,X Capital A/c Dr.
+To Share in P Ltd
+To Debenture in P Ltd.
+To Bank A/c
+(Final settlement of accounts of X),,4,13,400,1,53,000
+1,80,000
+80,400
+,Y Capital A/c Dr.
+To Shares in P Ltd.
+To Bank
+(Fianal settlement of accounts of Y),,45,600,27,000
+18,600

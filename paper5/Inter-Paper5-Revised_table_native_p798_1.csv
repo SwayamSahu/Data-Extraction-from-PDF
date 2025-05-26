@@ -1,0 +1,45 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+2013
+Nov. 1
+“ 30
+2013
+Dec. 1,To Balance b/d
+“ Debtors Ledger
+Adjustment A/c :
+Sales return
+Bad Debts
+Cash received
+Discount Allowed
+Bills Receivable
+“ Balance c/d
+To Balance b/d,1,865
+500
+1,000
+83,000
+670
+10,000
+89,400,2013
+Nov. 1
+“ 30
+2013
+Dec. 1,By Balance b/d
+“ Debtors Ledger
+Adjustment A/c :
+Sales
+Interest Charged
+Bills receivable
+-Dishonoured
+Notary Charges
+Carriage Charge
+“ Balance c/d
+By, Balance b/d,66,900
+1,16,000
+592
+2,500
+40
+137
+266
+,,1,86,435,,,1,86,435
+,,266,,,89,400

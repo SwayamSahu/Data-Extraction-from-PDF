@@ -1,0 +1,24 @@
+Date,Before preparation of Trial
+Balance,After preparation of Trial
+Balance,After preparation of Final
+Accounts
+(i),Plant A/c Dr. 10,000
+To Purchase A/c 10,000,Plant A/c Dr. 10,000
+To Purchase A/c. 10,000,Plant A/c Dr. 10,000
+To P&L Adjustment A/c 10,000
+(ii),Sales account will be credited
+with ` 1,000,Suspense A/c Dr. 1,000
+To Sales A/c 1,000,Suspense A/c Dr. 1,000
+To P&L Adjustment A/c 1,000
+(iii),X Account will be debited
+when ` 900,X A/c Dr. 900
+To Suspense A/c 900,X A/c Dr. 900
+To Suspense A/c 900
+(iv),Purchase A/c Dr. 3,000
+To T A/c 3,000,Purchase A/c Dr. 3,000
+To T A/c 3,000,P&L Adjustment A/c Dr. 3,000
+To T’s A/c. 3,000
+(v),Salary A/c Dr. 3,000
+To Wages A/c 3,000,Salary A/c Dr. 3,000
+To wages A/c 3,000,P&L Adjustment A/c. Dr. 3,000
+To P&L Adjustment A/c 3,000

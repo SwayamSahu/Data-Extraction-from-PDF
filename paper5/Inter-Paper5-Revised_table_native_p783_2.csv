@@ -1,0 +1,35 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+?
+?,To Balance b/d
+,, Debtors Ledger
+Adjustment A/c —
+Cash and Cheques
+Returns Inward
+Discount Allowed
+Bad Debts
+Bills Receivable
+Transfer to Cr. Ledger
+,, Transfer from Creditors to
+Debtors Ledger
+,, Balance c/d
+To Balance b/d,2,000
+1,60,000
+4,000
+6,000
+3,000
+20,000
+1,000
+1,200
+48,800,?
+?,By Balance b/d
+,, Debtors Ledger
+Adjustment A/c —
+Credit Sales
+,, Balance c/d
+By Balance b/d,40,000
+2,00,000
+6,000
+,,2,46,000,,,2,46,000
+,,6,000,,,48,800

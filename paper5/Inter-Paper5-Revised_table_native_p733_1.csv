@@ -1,0 +1,72 @@
+S No.,Transaction,HO Books,Branch Books
+1.,Goods sent by H.O. to
+Branch,Branch A/c Dr.
+To Goods Sent to Branch A/c,Goods Recd. from H.O. A/c. Dr.
+To H.O. A/c
+2.,Goods returned by Branch
+to H.O.,Goods Sent to Branch A/c Dr.
+To Branch A/c,HO A/c. Dr.
+To Goods Recd. From H. O. A/c
+3.,Branch Expenses incurred
+at Branch Office,—,Expenses A/c Dr.
+To Cash / Bank A/c
+4.,Branch expenses paid for
+by the Head Office,Branch A/c Dr.
+To Cash/Bank A/c,Expenses A/c. Dr.
+To H.O. A/c
+5.,Purchases made from
+parties other than H.O. by
+Branch,—,Purchases A/c Dr.
+To Bank/ Creditors A/c
+6.,Sales effected by the
+Branch,,Cash/Debtors A/c Dr.
+To Sales A/c
+7.,Collection from Debtors
+received directly by the
+H.O.,Cash/Bank A/c Dr.
+To Branch A/c,H.O. A/c Dr.
+To Sundry Debtors A/c
+8.,Payment by H.O. for
+Purchase made by the
+Branch,Branch A/c Dr.
+To Bank A/c,Purchases/Creditors A/c Dr.
+To H.O. A/c
+9.,Purchase of Asset by
+Branch,—,Sundry Assets A/c Dr.
+To Bank/Liability
+10.,Asset account maintained
+at H.O. and asset
+purchased by Branch,Branch Asset A/c Dr.
+To Branch A/c,H.O. A/c Dr.
+To Bank/Creditors A/c
+11.,Depreciation when asset
+account is maintained by
+H.O.,Branch A/c Dr
+To Branch Asset A/c,Depreciation A/c Dr.
+To H.O. A/c
+12.,Remittance of Funds by
+H.O. to Branch,Branch A/c Dr.
+To Bank A/c,Bank A/c Dr.
+To H.O. A/c
+13.,Remittance of Funds to
+H.O. by Branch,Bank A/c Dr.
+To Branch A/c,Ho A/c Dr.
+To Bank A/c
+14.,Transfer of Goods between
+different branches,Recipient Branch A/c Dr.
+To Supplying Branch A/c,(i) Supplying Branch A/c Dr.
+To Goods recd. from H.O.
+A/c
+(ii) Goods recd. from H.O. A/c
+Dr.
+To H.O. A/c
+15.,Charging the Branch
+service charges by H.O.,Branch (Expenses) A/c Dr.
+To Service Charges A/c,Expense A/c Dr.
+To H.O. A/c
+16.,Cash-in-transit,Cash-in-transit A/c. Dr.
+To Branch A/c.,Cash-in-transit A/c. Dr.
+To H.O. A/c.
+17.,Goods-in-transit,Goods-in-transit A/c. Dr.
+To Branch A/c.,Goods-in-transit A/c. Dr.
+To H.O. A/c.

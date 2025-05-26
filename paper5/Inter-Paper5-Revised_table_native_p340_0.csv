@@ -1,0 +1,20 @@
+Expenditure,Amount
+(`),Amount
+(`),Income,Amount
+(`),Amount
+(`)
+To Salary,1,55,900,,By Examination fees,,32,500
+Add: Outstanding,12,500,1,68,400,By Certificate fees,,7,800
+To Printing & Stationery,,8,500,By Subscriptions,2,75,800,
+To Postage & Telephone,,2,500,Add: Receivable,22,500,
+To Insurance,10,400,,Less: Pre-received,(7,850),2,90,450
+Less: Prepaid,(4,500),5,900,By Hire charges,,95,500
+To Examination Expenses,,24,000,By Interest,,85,000
+To Periodicals,,15,600,By Other Receipts,,4,400
+To General Expenses,,5,250,By Accrued interest,,6,250
+To Depreciation on Books,,38,415,,,
+To Depreciation on Building,,37,890,,,
+To Depreciation on
+Furniture,,17,725,,,
+To Surplus,,1,97,720,,,
+,,5,21,900,,,5,21,900

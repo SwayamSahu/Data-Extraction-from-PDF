@@ -1,0 +1,17 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2009,To B. S. Ltd. A/c
+(Landlord),40,500,2009,By Balance c/d,40,500
+,,40,500,,,40,500
+2010,To Balance b/d
+” B. S. Ltd. A/c
+(Landlord),40,500
+21,000,2010,By Balance c/d,61,500
+,,61,500,,,61,500
+2011,To Balance b/d,61,500,2011,By Balance c/d,61,500
+,,61,500,,,61,500
+2012,To Balance b/d,61,500,2012,By B. S Ltd. (Landlord) A/c
+” Profit and Loss A/c,7,500
+54,000
+,,61,500,,,61,500

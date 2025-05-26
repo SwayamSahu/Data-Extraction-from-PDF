@@ -1,0 +1,16 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Bills Receivable A/c Dr.
+Discount Allowed A/c Dr.
+To, Slow A/c
+(Endorsed bill received from Slow in full settlement.),,5,040
+60,5,100
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Bill discounted by the bank.),,5,000
+40,5,040
+,Slow A/c Dr.
+To, Bank A/c
+To, Discount Allowed A/c
+(Bill dishonoured at maturity.),,5,100,5,040
+60

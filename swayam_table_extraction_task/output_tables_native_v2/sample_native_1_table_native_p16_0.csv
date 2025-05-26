@@ -1,0 +1,7 @@
+StoredProcColumnName,DataType
+@param_LoggedInUserEmail,NVARCHAR(255)
+@param_WatchListName,NVARCHAR(100)
+@param_WatchListDescription,NVARCHAR(255)
+@param_WatchListPrimaryOwnerName,NVARCHAR(255)
+@param_WatchListPrimaryOwnerEmail,NVARCHAR(255)
+@param_tvp_WatchListEmployees,tvp_WatchListEmployees READONLY

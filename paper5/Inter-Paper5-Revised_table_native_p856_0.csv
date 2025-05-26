@@ -1,0 +1,13 @@
+Date,Particulars,L.F,Dr. (`),Cr. (`)
+2013
+Jan 1,X A/c Dr.
+To, Sales A/c
+(Goods sold to X),,4,000,4,000
+Jan 1,Bills Receivable A/c Dr.
+To, X A/c
+(Bills drawn for 3 months),,4,000,4,000
+March 1,Cash A/c Dr.
+Rebate Allowed A/c Dr.
+To, Bills Receivable A/c
+(Bills retired under a rebate of 12% p.a.),,3,954
+46,4,000

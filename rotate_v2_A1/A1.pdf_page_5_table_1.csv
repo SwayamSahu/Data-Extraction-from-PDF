@@ -1,0 +1,12 @@
+FGI,Loading,—,Securement,Warehouse*,Drivers,,,,,
+Acknowledgement,Checklist,Acknowledgement,|,Acknowledgement,Comment,,,,,
+1,|,Validation,Driver,present,for,each,crate,LA,.,
+loaded,into,Trailer,‘4,<,,,,,,
+2,|,Validation,All,Crates,are,damage,free,at,,
+time,of,Loading,yf,4,C,,,,,
+3,|,Validation,all,Shock,and,Tilt,Sensors,are,,
+on,Crates,>,150,Ibs.,KA,Vv,C,,,
+4,|,All,Shock,/,Tilt,sensors,are,armed,and,not
+trigged,at,time,of,loading,Vy,A,v,C,,
+5,|,Product,is,Secured,to,prevent,7.7,ya,,
+transportation,movement,/,damage,,,,,,,

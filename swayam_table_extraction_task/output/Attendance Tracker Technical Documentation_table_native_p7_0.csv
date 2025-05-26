@@ -1,0 +1,3 @@
+LastOut,DATETIME NULL
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

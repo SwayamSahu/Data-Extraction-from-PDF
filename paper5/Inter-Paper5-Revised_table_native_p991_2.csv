@@ -1,0 +1,11 @@
+Asset Classification,Amount,Provision,Amount of Provision
+,` in Lakhs,%,` in lakhs
+Standard,6,000,0.40,24
+Sub-standard1,4,400,15,660
+Doubtful,,,
+One year,1,800,25,450
+2 years,1,200,40,480
+3 years,800,40,320
+More than 3 years,600,100,600
+Loss assets,1,600,100,1,600
+,,,4,134

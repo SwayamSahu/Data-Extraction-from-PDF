@@ -1,0 +1,21 @@
+Liabilities,Amount (`),Amount (`),Assets,Amount (`),Amount (`)
+Capital Fund,,,Fixed Assets:,,
+Op balance,60,000,,Swimming Pool,,40,000
+Add: Capital grants,10,000,,Equipments,,20,000
+Add: Legacies,8,000,,Furniture,8,000,
+Add: Entrance fees (50%),2,000,80,000,Less: Depreciation,800,7,200
+General Fund,,,Investment,,
+Op balance,10,000,,General fund,36,000,
+Surplus,20,000,30,000,Prize fund,10,000,46,000
+Building Fund,,,Receivables,,
+Op balance,30,000,,Subscription,,10,000
+Add: Income,2,000,32,000,Cash & bank,,
+Prize Fund,,,Cash in hand,800,
+Op balance,10,000,,Current A/c,10,000,
+Add: Income,1,000,,Fixed deposit,20,000,30,800
+Less: Expenses,800,10,200,,,
+Allowances,,,,,
+Outstanding,,800,,,
+Consultancy,,,,,
+Outstanding,,1,000,,,
+,,1,54,000,,,1,54,000

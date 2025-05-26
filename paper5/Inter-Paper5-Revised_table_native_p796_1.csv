@@ -1,0 +1,33 @@
+Date,Particulars,Amount
+(`),Date,Particulars,Amount
+(`)
+2013
+Jan 1
+June 30
+2013
+July 1,To Balance b/d
+“ Nominal Ledger
+Adjustment A/c :
+- Sales
+-Bills Receivable
+Dishonoured
+To Balance b/d,30,000
+19,600
+750,2013
+June 30,By Nominal Ledger
+Adjustment A/c :
+Cash Received
+Discount Allowed
+Bills Receivable
+Return Inward
+Rebate Allowed
+Bad Debts
+“ Balance c/d,15,600
+400
+6,000
+1,750
+550
+900
+25,150
+,,50,350,,,50,350
+,,25,150,,,

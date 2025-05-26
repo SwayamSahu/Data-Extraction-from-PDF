@@ -1,0 +1,82 @@
+Particulars,Dept. A
+`,Dept. B
+`,Total
+`,Particulars,Dept. A
+`,Dept. B
+`,Total
+`
+To Opening Stock
+,, Purchase
+,, Wages
+,, Carriage Inwards (4:3)
+,, Rent
+,, Lighting and Heating
+,, Gross Profit c/d
+To Rent
+,, Advertisement
+,, Salaries (2:1)
+,, Lighting and Heating
+,, Discount Allowed
+(on Sales)
+,, Dep. On (2:1)
+Plant & Machinery
+Furniture & Fixture
+,, Net Profit,5,400
+9,800
+1,340
+268
+600
+240
+2,000,4,900
+7,350
+240
+201
+300
+120
+2,810,10,300
+17,150
+1,580
+4691
+9006
+3602
+4,810,By Sales
+,, Closing
+Stock
+By Gross Profit
+b/d
+,, Dis. Received
+(4 :3)
+,, Net Loss,16,900
+2,748,13,520
+2,401,30,420
+5,149
+,19,648,15,921,35,569,,19,648,15,921,35,569
+,400
+410
+880
+160
+245
+280
+40
+---,200
+328
+440
+80
+196
+140
+20
+1,463,6006
+7384
+1,3205
+2402
+4413
+420
+60
+1,124,,2,000
+76
+339,2,810
+57
+---,4,810
+1337
+---
+,2,415,2,867,4,943,,2,415,2,867,4,943

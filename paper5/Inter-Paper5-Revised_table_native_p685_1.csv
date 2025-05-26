@@ -1,0 +1,16 @@
+Transaction,DR,CR
+(1) Goods sold on hire-purchase at
+Hire-purchase selling price,Hire-Purchase Debtors,Hire-Purchase Sales
+(2) (i) Deposits and installments
+received from customers.
+(ii) -do- (Total),Bank
+Hire-Purchase Sales,Hire-Purchase Debtors
+(Individual A/c)
+Hire-Purchase Trading A/c
+(3) Cost price of goods sold on hire-
+purchase,Hire-Purchase Trading,Purchases/ Trading
+(4) (i) Installment due and unpaid
+(ii) -do- (Total),Installment Due
+Hire-Purchase Sales,Hire- Purchase Debtors
+Hire-Purchase Trading A/c
+(5) Hire-purchase Trading profit,Hire-Purchase Trading,General Profit and Loss

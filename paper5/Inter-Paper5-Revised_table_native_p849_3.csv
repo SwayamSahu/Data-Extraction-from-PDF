@@ -1,0 +1,13 @@
+Date,Particulars,L. F.,Dr. (`),Cr. (`)
+,Bills Receivable A/c Dr.
+To, Kamal A/c
+(Bill received from Kamal.),,1,000,1,000
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Bill received from Kamal discounted by the Bank at 6% p.a.),,995
+5,1,000
+,Kamal A/c Dr.
+To, Bank A/c
+(Bill received from Kamal dishonoured, noting charge being
+` 10.),,1,010,1,010

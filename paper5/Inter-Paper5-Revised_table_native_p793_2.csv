@@ -1,0 +1,41 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2013
+Jan. 1
+Dec.31
+2014
+Jan. 1,To Balance b/d
+General Ledger
+Adjustment A/c:
+Sales
+B/R endorsed
+Dishonoured
+Bills Dishonoured
+Interest
+,, Balance c/d
+To Balance b/d,20,000
+19,000
+300
+400
+30
+450,2013
+Jan. 1
+Dec.31
+2014
+Jan. 1,By Balance b/d
+,, General Ledger
+Cash
+Discount Allowed
+(15,000 – 14,100)
+Bills Receivable Received
+Transfer
+,, Balance c/d
+By Balance b/d,300
+14,100
+900
+3,000
+600
+21,280
+,,40,180,,,40,180
+,,21,280,,,450

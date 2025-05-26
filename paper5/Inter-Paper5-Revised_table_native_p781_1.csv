@@ -1,0 +1,23 @@
+6.,For Returns
+Inward,Returns Inward A/c Dr.
+(in General Ledger)
+To, Individual Customer A/c
+(in Debtors Ledger),Do
+7.,For Bills/Cheques
+Received
+/Dishonoured,Individual Customer A/c Dr.
+(in Debtors Ledger)
+To,Bills Receivable/Bank A/c
+(in General Ledger),Debtors Ledger Adjustment A/c Dr.
+(in General Ledger)
+To, General Ledger Adjustment A/c
+(in Debtors Ledger)
+8.,For interest on
+Customer’s
+overdue account
+or cost of
+carriage charged
+to Customers,Individual Customer A/c Dr.
+(in Debtors Ledger)
+To,Interest/ Charges A/c
+(in General Ledger),

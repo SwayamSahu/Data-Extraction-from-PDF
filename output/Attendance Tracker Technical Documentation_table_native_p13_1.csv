@@ -1,0 +1,7 @@
+Column Name,Data Type
+EmpID,FLOAT NULL
+Email,NVARCHAR(255) NULL
+Department,NVARCHAR(255) NULL
+DeptId,FLOAT NULL
+Type,NVARCHAR(255) NULL
+Net X Class & Practice,NVARCHAR(255) NULL

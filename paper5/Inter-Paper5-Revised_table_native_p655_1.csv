@@ -1,0 +1,13 @@
+,Particulars,Debit (`),Credit (`)
+1.,Hire Purchase A/c Dr.
+To, Hire Vendor A/c [Cash price],xxxx,xxxx
+2.,Hire Vendor A/c Dr.
+To, Bank A/c [Down payment],xxxx,xxxx
+3.,Interest A/c Dr.
+To, Hire Vendor A/c,xxxx,xxxx
+4.,Hire Vendor A/c Dr.
+To, Bank A/c [Instalment amount],xxxx,xxxx
+5.,P/L A/c Dr.
+To, Interest A/c
+To, Depreciation A/c,xxxx,xxxx
+xxxx

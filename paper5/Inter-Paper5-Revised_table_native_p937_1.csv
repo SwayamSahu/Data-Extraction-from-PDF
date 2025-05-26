@@ -1,0 +1,9 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+To, Opening Stock,1,60,000,By, Sales,11,60,000
+1,44,000 × (100/90),,By, Stock lost by Accident,50,000
+To, Purchases,9,38,000,By, Closing Stock (2,42,000 ×100/110),2,20,000
+To, Wages,1,00,000,,
+To, Profit & Loss A/c (G.P. transferred),2,32,000,,
+,14,30,000,,14,30,000

@@ -1,0 +1,9 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+To, Opening Stock,2,20,000,By, Sales,2,40,000
+To, Purchases,1,82,000,By, Closing Stock,2,28,000
+To, Wages,18,000,,
+To, Profit & Loss A/c (G.P. @20% of
+sales),48,000,,
+,4,68,000,,4,68,000

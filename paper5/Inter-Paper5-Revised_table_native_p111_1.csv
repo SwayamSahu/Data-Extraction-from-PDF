@@ -1,0 +1,43 @@
+Date,Particulars,L.F.,Amount (`),Amount (`)
+(a),Sankar A/c Dr.
+Discount Received A/c Dr.
+To, Sharma A/c
+To Discount Allowed A/c
+(Cheque received from Sankar was endorsed
+to Sharma after allowing discount `46 , it was
+dishonored, now rectified),,3,502
+44,3500
+46
+(b),Return Inward A/c Dr.
+Das A/c Dr.
+To, Purchase A/c
+To, Sen A/c
+To Suspense A/c
+(Goods returned by sen for ` 230 wrongly
+recorded in Purchase Day Book as an credit to
+Das as ` 320, now rectified.),,230
+320,230
+230
+90
+(c),Bad debts A/c Dr.
+To Suspense A/c
+(Bad debts written off but not recorded, now
+rectified),,505,505
+(d),Repairs A/c Dr.
+To, Purchase A/c
+To, Mukherjee A/c
+(Repairs of machinery for ` 750, wrongly
+recorded as ` 650 on Purchase A/c, now
+rectified.),,750,650
+100
+(e),Goods- in- Transit A/c Dr.
+To Trading A/c
+(Goods were in Transit which were not
+considered, now rectified),,1,234,1,234
+(f),Machinery A/c Dr
+Suspense A/c
+To Freight A/c
+(amount paid for freight on machinery was
+wrongly debited to freight account, now
+rectified),,79
+18,97

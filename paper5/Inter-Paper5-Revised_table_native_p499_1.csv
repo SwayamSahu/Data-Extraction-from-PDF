@@ -1,0 +1,47 @@
+Date,Particulars,Amount
+`,Amount
+`
+31.3.13,A’s Capital A/c [5/12 of ` 48,000] Dr.
+B’s Capital A/c [4/12 of ` 48,000] Dr.
+C’s Capital A/c [3/12 of ` 48,000] Dr.
+To Profit & Loss Adjustment A/c
+[Profits of ` 48,000 already shared by A, B & C as 5 : 4 : 3 written
+back],20,000
+16,000
+12,000,48,000
+,Profit & Loss Adjustment A/c Dr.
+To B’s Capital A/c
+[B Credited with bonus of ` 4,000 for his extra work],4,000,4,000
+,Profit & Loss Adjustment A/c Dr.
+To A’s Capital A/c [3/11 of ` 44,000]
+To B’s Capital A/c [4/11 of ` 44,000]
+To C’s Capital A/c [4/11 of ` 44,000]
+[The remaining profits re-distributed as 3 : 4 : 4],44,000,12,000
+16,000
+16,000
+,Goodwill A/c Dr.
+Fixtures A/c Dr.
+To Profit & Loss Adjustment A/c
+[Values of assets increased on revaluation],16,800
+2,780,19,580
+,Profit & Loss Adjustment A/c Dr.
+To Provision for doubtful debts A/c
+[Provision created @ 2% on Debtors],1,870,1,870
+,Profit & Loss Adjustment A/c Dr.
+To A’s Capital A/c [3/11]
+To B’s Capital A/c [4/11]
+To C’s Capital A/c [4/11]
+[Profit on Revaluation shared among all partners as 3 : 4 : 4],17,710,4,830
+6,440
+6,440
+,A’s Capital A/c Dr.
+To A’s Loan A/c
+[Transfer of A’s dues to his Loan A/c],1,32,760,1,32,760
+,B’s Capital A/c [3/5] Dr.
+C’s Capital A/c [2/5] Dr.
+To Goodwill A/c
+To Provision for doubtful debts A/c
+[Goodwill Account written off and provision on debtors increased
+by 4% further on ` 93,500],36,324
+24,216,56,800
+3,740

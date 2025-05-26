@@ -1,0 +1,13 @@
+Date,Particulars,Amount (`),Date,Particulars,Amount (`)
+31.12.2012,To, Balance c/d
+(5% on `1,25,000),6,250,01.01.2012
+31.12.2012,By, Balance b/d
+“Profit and Loss A/c (Bal Trf),5,000
+1,250
+6,250
+,,6,250,,,
+31.12.2013,To, Profit and Loss A/c
+“Balance c/d
+(2.5% on 1,00,000),3,750
+2,500,01.01.2013,By, Balance b/d,6,250
+,,6,250,,,6,250

@@ -1,0 +1,13 @@
+Particulars,Amount (`),Amount (`)
+Bank Balance as per Cash Book,,19,500
+Add : Cheques issued but not presented,3,500,
+(` 1,000 + ` 2,000 + ` 500),,
+Direct deposit made by the customer, Sri K. Sen,3,000,
+Interest credited by Bank, but not entered in Cash Book,100,
+,,6,600
+,,26,100
+Less : Cheques deposited but not credited,4,200,
+(` 1,200 + ` 3,000),,
+Bank charges debited by Bank but not entered in Cash Book,10,
+,,4,210
+Bank Balance as per Pass Book,,21,890

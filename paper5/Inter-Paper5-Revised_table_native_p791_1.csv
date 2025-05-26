@@ -1,0 +1,10 @@
+Date,Particulars,L/F,Amount
+`,Amount
+`
+?,Creditors Ledger Adjustment A/c Dr.
+To General ledger Adjustment A/c,,3,000,3,000
+,General Ledger Adjustment A/c Dr.
+To Debtors Ledger Adjustment A/c,,3,000,3,000
+,or Direct Entry
+Creditors Ledger Adjustment A/c Dr.
+To Debtors ledger Adjustment A/c,,3,000,3,000

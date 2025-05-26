@@ -1,0 +1,32 @@
+Date,Particulars,Amount
+`,Amount
+`
+2013
+Apr. 1,Realisation A/c Dr.
+To Stock-in-trade A/c
+To Sundry Debtors A/c
+To Cash at bank A/c
+To Cash in hand A/c
+To Furniture & Fixture A/c
+(Transfer of different Assers to Realisation A/c),1,44,500,98,000
+37,000
+7,500
+234
+1,766
+,Creditors for Goods A/c Dr.
+Creditors for Expenses A/c Dr.
+To Realisation A/c
+(Transfer of different liabilities to Realisation A/c),47,000
+2,000,49,000
+,AB & Co. A/c Dr.
+To Realisation A/c
+(Purchase consideration due ),1,01,750,1,01,750
+,Realisation A/c Dr.
+To Capital A/c
+(Realisation Profit transferred to Capital A/c),6,250,6,250
+,Capital in AB & Co. A/c Dr.
+To AB & Co. A/c
+(Settlement of purchase consideration),1,01,750,1,01,750
+,Capital A/c Dr.
+To Capital in AB & Co. A/c
+(Final adjustment to close the books of account),1,01,750,1,01,750

@@ -1,0 +1,29 @@
+Date,Particulars,L.F.,Dr. (`),Cr. (`)
+2013
+April, 1,Bills Receivables A/c Dr
+To, Sunil’s A/c
+(Being acceptance by Sunil),,80,000,80,000
+April, 15,Bank A/c Dr
+Discount A/c Dr
+To, Bills Receivables A/c
+(Being discounting of the bill @ 12% p.a. & discounting
+charges for 2.5 months),,78,000
+2,000,80,000
+June, 30,Sunil’s A/c Dr.
+To, Bank A/c
+(Being dishonour of the bill & noting charges paid by bank),,80,100,80,100
+June, 30,Bank A/c Dr.
+To, Cash
+(Being cash paid to bank),,80,100,80,100
+July, 1,Sunil’s A/c Dr.
+To, Interest
+(Being interest due from Sunil),,3,000,3,000
+July, 1,Bills Receivables A/c Dr.
+To, Sunil’s A/c
+(Being new acceptance by Sunil for ` 80,100 & interest
+of ` 3,000),,83,100,83,100
+July, 1,Bank A/c Dr.
+Rebate A/c Dr.
+To, Bills Receivables A/c
+(Being the amount received on retirement of the bill),,82,600
+500,83,100

@@ -1,0 +1,18 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.11,To Kolkata Motors’ A/c
+(`50,000 × 3),1,50,000,31.12.11,By Depreciation A/c
+(20% on `1,50,000),30,000
+,,,,By Balance c/d,1,20,000
+,,1,50,000,,,1,50,000
+01.01.12,To Balance b/d,1,20,000,31.12.12,By Depreciation A/c,24,000
+,,,31.12.12,By Kolkata Motors’ A/c
+(Value of 2 tempos taken
+away),49,000
+,,,31.12.12,By P&L A/c (Loss on
+Default),15,000
+,,,31.12.12,By Balance c/d (value of
+one tempo left),32,000
+,,1,20,000,,,1,20,000
+01.01.13,To Balance b/d,32,000,31.12.13,By Depreciation A/c,6,400
+,,,31.12.13,By Balance c/d,25,600
+,,32,000,,,32,000

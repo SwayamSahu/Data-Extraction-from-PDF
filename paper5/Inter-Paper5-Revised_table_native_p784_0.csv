@@ -1,0 +1,27 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2013
+Jan. 31,To Sales Ledger Adj. A/c
+Cash
+Dis. Allowed
+Returns Inward
+B/R
+Bad Debts
+,, Balance c/d,4,851
+120
+180
+1,200
+819
+3,570,2013
+Jan. 1
+Jan. 31
+Feb. 1,By Balance b/d
+,, Sales Ledger Adj. A/c-
+Sales
+B/R Dishonoured
+By Balance b/d,6,210
+3,330
+1,200
+,,10,740,,,10,740
+,,,,,3,370

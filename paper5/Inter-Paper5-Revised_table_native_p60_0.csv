@@ -1,0 +1,39 @@
+Date,Particulars,L. F.,Debit (`),Credit (`)
+April,
+2013
+1,Plant A/c Dr.
+Bank A/c Dr.
+Stock A/c Dr.
+To, Capital A/c
+[Being Plant, Bank, Stock introduced to the business],,10,000
+8,000
+12,000,30,000
+2,Purchase A/c Dr.
+To, Bank A/c
+[Being furniture purchased for resale],,5,000,5,000
+,Furniture A/c Dr.
+To, Bank A/c
+[Being furniture purchased for office decoration],,3,000,3,000
+3,Rent A/c Dr.
+To, Capital A/c
+[Being rent paid out of personal cash],,2,000,2,000
+8,Cash A/c Dr.
+To, Sales A/c
+[Being furniture out of those meant for resale are sold],,6,000,6,000
+12,Salary A/c Dr.
+To, Bank A/c
+[Being salary paid to Mr. X],,1,200,1,200
+15,Purchase A/c Dr.
+To, Cash A/c
+[Being goods purchased],,3,000,3,000
+18,Mr. Sen A/c Dr.
+To, Sales A/c
+[Being goods sold on credit to Mr. Sen],,8,000,8,000
+20,Returns Inward A/c Dr.
+To, Mr. Sen A/c
+[Being goods returned from Mr. Sen],,1,000,1,000
+22,Cash A/c Dr.
+Discount Allowed A/c Dr.
+To, Mr. Sen A/c
+[Being cash received from Mr. Sen in full settlement],,6,500
+500,7,000

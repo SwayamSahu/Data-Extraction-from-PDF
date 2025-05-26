@@ -1,0 +1,35 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2008-09
+2009-10
+2010-11
+2011-12,To, Balance b/d
+To, Landlord A/c
+To, Balance b/d
+To, Balance b/d
+To, Balance b/d,11,600
+11,000,2008-09
+2009-10
+2010-11
+2011-12,By, Profit and Loss A/c
+By, Balance c/d
+By, Landlord A/c
+By, Profit and Loss A/c
+By, Balance c/d
+By, Landlord A/c
+By, Balance c/d
+By, Landlord A/c
+By, Profit and Loss A/c,3,000
+19,600
+,,22,600,,,22,600
+,,19,600,,,4,000
+3,600
+12,000
+,,19,600,,,19,600
+,,12,000,,,8,000
+4,000
+,,12,000,,,12,000
+,,4,000,,,2,000
+2,000
+,,4,000,,,4,000

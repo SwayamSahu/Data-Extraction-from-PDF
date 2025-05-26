@@ -1,0 +1,4 @@
+Column Name,Data Type
+DeptId,VARCHAR(50) NOT NULL
+DeptName,VARCHAR(50) NULL
+TypeId,VARCHAR(50) NULL

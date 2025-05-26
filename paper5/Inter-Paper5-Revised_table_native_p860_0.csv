@@ -1,0 +1,34 @@
+Date,Particulars,L.F.,Dr.
+(`),Cr.
+(`)
+,Bills Receivable A/c Dr.
+To, Ratan A/c
+(Bill drawn for mutual accommodation and accepted by
+Ratan.),,3,000,3,000
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Bills Receivable A/c
+(Bill discounted by the bank.),,2,925
+75,3,000
+,Ratan A/c Dr.
+To, Bank A/c
+To Discount A/c
+(1/3Proceeds remitted to Ratan.),,1,000,975
+25
+,Ratan A/c Dr.
+To, Bills Payable A/c
+(Bill accepted.),,3,750,3,750
+,Bank A/c Dr.
+Discount A/c Dr.
+To, Ratan A/c
+(Proceeds received from Ratan including discount charges.),,175
+75,250
+,Bills Payable A/c Dr.
+To, Ratan A/c
+(Bill dishonored since e became insolvent.),,3,750,3,750
+,Ratan A/c Dr.
+To, Bank A/c
+`` Deficiency A/c
+(Cash paid to Ratan @80 paise in the rupee and balance
+transferred to deficiency account.),,2,250*,1,800
+450

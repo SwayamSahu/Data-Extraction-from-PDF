@@ -1,0 +1,20 @@
+A
+Instalment
+Number,B
+Closing Balance
+after the Payment
+of Instalment,C
+Instalment
+Amount,D = B + C
+Closing Balance
+before the payment
+of Instalment,E = D×R/
+(100 + R)
+Interest
+D× 10/110,F = D-E
+Opening
+Balance
+IV,—,2,20,000,2,20,000,20,000,2,00,000
+III,2,00,000,2,40,000,4,40,000,40,000,4,00,000
+II,4,00,000,2,60,000,6,60,000,60,000,6,00,000
+I,6,00,000,2,80,000,8,80,000,80,000,8,00,000

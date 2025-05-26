@@ -1,0 +1,17 @@
+Schedule 4: Benefits (Paid),`,`
+Insurance Claims:
+By Death-
+Paid
+Add: Outstanding at the ends,4,400
+1,200,
+Less: Outstanding at the beginning,5,600
+1,800,3,800
+By Maturity-
+Paid
+Add: Outstanding at the end,3,000
+800,
+Less: Outstanding at beginning,3,800
+1,200,2,600
+Annuities,,12
+Surrender, less Re-insurance,,80
+,,6,492

@@ -1,0 +1,36 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2012
+Nov. 1
+2013
+Oct. 30
+2013
+Nov. 1,To Balance b/d
+,, Creditors Ledger
+Adjustment A/c:
+Purchases
+,, Balance c/d
+To Balance b/d,30,640
+72,700
+980,2012
+Nov. 1
+2013
+Oct.30
+2013
+Nov. 1,By Balance b/d
+Creditors Ledger
+Adjustment A/c:
+Cash paid
+Purchase Returns
+Discount Received
+Bills Payable
+,, Balance c/d
+By Balance b/d,700
+57,500
+2,500
+320
+8,000
+35,300
+,,1,04,320,,,1,04,320
+,,35,300,,,980

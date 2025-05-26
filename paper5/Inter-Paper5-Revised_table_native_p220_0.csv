@@ -1,0 +1,30 @@
+Date,Particulars,Amount (`),Date,Particulars,Amount (`)
+01.01.10
+01.01.11
+01.01.12
+01.01.13,To, Bank A/c
+To, Balance b/d
+To, Balance b/d
+To, Balance b/d,1,00,000,31.12.10
+31.12.11
+31.12.12
+31.12.13,By, Depreciation A/c
+By, Balance c/d
+By, Depreciation A/c
+By, Balance c/d
+By, Depreciation A/c
+By, Balance c/d
+By, Depreciation A/c
+- 10% on ` 70,000
+By, Balance c/d,10,000
+90,000
+,,1,00,000,,,1,00,000
+,,90,000,,,10,000
+80,000
+,,90,000,,,90,000
+,,80,000,,,10,000
+70,000
+,,80,000,,,80,000
+,,70,000,,,7,000
+63,000
+,,70,000,,,70,000

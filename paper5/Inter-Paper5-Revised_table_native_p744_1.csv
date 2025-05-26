@@ -1,0 +1,31 @@
+Date,Particulars,L/F,Amount
+`,Amount
+`
+2013
+Dec. 31.,Depreciation A/c Dr.
+To Head Office A/c
+(Depreciation on fixed assets @ 10% Monthly and @
+15% or Furniture in H.O. Books.),,2,650,2,650
+,Rent A/c Dr.
+To Outstanding Rent A/c
+(Rent Outstanding),,150,150
+,Cash-in-Transit A/c Dr.
+To Head Office A/c
+(Cash remitted to H.O. but in transit),,4,000,4,000
+,Head Office A/c Dr.
+To Profit & Loss A/c
+(Net Loss Transferred.) [ ` 50,150 – 49,750],,400,400
+,Head Office A/c Dr.
+To Closing Stock
+,, Debtors
+,, Cash at Bank
+,, Cash-in-Transit
+(Asset transferred to H.O. A/c),,23,100,14,350
+4,000
+750
+4,000
+,Creditors A/c Dr.
+Outstanding Rent A/c Dr.
+To Head Office A/c
+(Various Liabilities transferred to H.O. A/c),,2,700
+150,2,850

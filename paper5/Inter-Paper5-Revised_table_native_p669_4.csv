@@ -1,0 +1,20 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.11,To H.P. Sales A/c,10,00,000,01.01.11,By Bank A/c
+(Down Payment),2,00,000
+31.12.11,To Interest A/c
+[(`10,00,000 -
+`2,00,000) × 10/100],80,000,31.12.11,By Bank A/c
+(`2,00,000 + `80,000)
+By Balance c/d,2,80,000
+6,00,000
+,,10,80,000,,,10,80,000
+01.01.12
+31.12.12,To Balance b/d
+To Interest A/c
+[ `6,00,000 × 10/100],6,00,000
+60,000,31.12.12,By Balance c/d,6,60,000
+,,6,60,000,,,6,60,000
+01.01.13,To Balance b/d,6,60,000,01.01.13,By H.P. Goods
+Repossessed A/c,3,60,000
+,,,,By Profit & Loss A/c,3,00,000
+,,6,60,000,,,6,60,000

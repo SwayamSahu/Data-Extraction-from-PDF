@@ -1,0 +1,40 @@
+Date,Particulars,Amount
+`,Date,Particulars,Amount
+`
+2013
+Mar. 31,To Goods sent to Branch A/c
+Load on goods returned
+(10,000 x 1)
+5
+Branch Stock A/c
+,, Pilferage A/c
+(Loading) (` 2,000 x 1)
+5
+,, Lost by fire
+(Loading) (` 5,000 x 1)
+5
+,, Chennai Branch A/c
+(Loading) (` 15,000 x 1)
+5
+,, Branch Profit and Loss A/c
+Gross Profit transferred
+(bal. fig.)
+,, Balance c/d
+Load on Closing Stock
+(` 48,500 x 1)
+5,2,000
+400
+1,000
+3,000
+54,900
+9,700,2013
+Mar. 31,By Balance b/d
+Load on Opening Stock
+(` 30,000 x 1)
+5
+,, Goods sent to Branch
+A/c Loading
+(` 3,25,000 x 1)
+5,6,000
+65,000
+,,71,000,,,71,000

@@ -1,0 +1,17 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Food grains A/c (400*800)
+To, Bank A/c - freight & insurance
+To, Sahu A/c -food grains(400*1000)
+To, Sahu A/c - expenses
+To, Sandeep A/c - expenses
+To, Sandeep A/c - commission 5%
+To, Profit & Loss A/c 3/5th share
+To, Sahu A/c 2/5th share,3,20,000
+10,000
+4,00,000
+11,000
+21,000
+48,000
+90,000
+60,000,By, Sandeep A/c - sales (800*1200),9,60,000
+,9,60,000,,9,60,000

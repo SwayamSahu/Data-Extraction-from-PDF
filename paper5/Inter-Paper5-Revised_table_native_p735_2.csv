@@ -1,0 +1,18 @@
+Particulars,L.F.,Amount
+`,Amount
+`
+(a) Goods sent to Branch A/c Dr.
+To H.O. A/c
+(Being the goods received from Delhi Branch),,50,000,50,000
+(b) H.O. A/c Dr.
+To Bill Payable A/c
+(Being a B/P accepted for Delhi Branch),,40,000,40,000
+(c) H.O. A/c Dr.
+To Cash A/c
+(Being cash paid to Delhi Branch),,10,000,10,000
+(d) H.O. A/c Dr.
+To Debtors A/c
+(Being the goods returned by customer of Delhi Branch),,20,000,20,000
+(e) Cash A/c Dr.
+To H.O. A/c
+(Being the Cash received from a customer of Delhi Branch),,20,000,20,000

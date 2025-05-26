@@ -1,0 +1,16 @@
+Particulars,Amount
+`,Particulars,Amount
+`
+To Realisation A/c
+(Debtors realised)
+To S Ltd. A/c
+(Purchase Consideration),60,000
+3,60,000,By Balance b/d
+By Realisation A/c
+(Crs payment)
+By Capital A/c - X
+By Capital A/c - Y,1,50,000
+1,71,000
+80,400
+18,600
+,4,20,000,,4,20,000

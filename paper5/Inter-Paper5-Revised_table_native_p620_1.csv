@@ -1,0 +1,14 @@
+,Cash A/c Dr.
+To B Capital A/c
+(Cash brought in by B),,9,500,9,500
+,Capital in M/s XY & Co. A/c Dr.
+To M/s XY & Co. A/c
+(Settlement of purchase consideration),,80,000,80,000
+,A Capital A/c Dr.
+To Capital in XY & Co. A/c
+To Cash A/c
+(Final adjustment to close the books),,49,500,40,000
+9,500
+,B’s Capital A/c Dr.
+To B’s Cap. In XY & Co. A/c
+(Final adjustment to close the books),,40,000,40,000

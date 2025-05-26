@@ -1,0 +1,16 @@
+Particulars,`,`,Particulars,`
+To, Opening Stock
+“ Purchase
+Add: Carriage Inward
+Add: Com. on Purchase
+“ Gross Profit
+(@ 50% on cost or 33 % on
+sale),2,60,000
+1,600
+5,200,60,000
+2,66,800
+60,000,By, Sales
+“ Closing Stock
+(bal. figure),1,80,000
+2,06,800
+,,3,86,800,,3,86,800

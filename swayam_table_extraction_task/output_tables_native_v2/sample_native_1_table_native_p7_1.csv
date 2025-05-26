@@ -1,0 +1,7 @@
+Column Name,Data Type
+ID,BIGINT IDENTITY(1,1) NOT NULL
+ModuleName,NVARCHAR(255) NULL
+MessageLog,NVARCHAR(MAX) NULL
+LoggedInUserEmail,NVARCHAR(255) NULL
+CreatedOn,DATETIME NOT NULL (Default: GETDATE())
+ModifiedOn,DATETIME NOT NULL (Default: GETDATE())

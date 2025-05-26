@@ -1,0 +1,5 @@
+a.,Opening Stock,80,000
+b.,Add : Purchases,1,80,000
+c.,Less : Cost of Sales,2,29,850
+d.,Less : Shortage,1,200
+e.,Closing Stock (a + b – c – d),28,950

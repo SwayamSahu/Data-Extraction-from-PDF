@@ -1,0 +1,4 @@
+@param_EmpId,NVARCHAR(10) = NULL
+@param_Date,NVARCHAR(10) = NULL
+@param_Year,SMALLINT = NULL
+@param_Month,SMALLINT = NULL

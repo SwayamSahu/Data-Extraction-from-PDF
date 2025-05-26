@@ -1,0 +1,5 @@
+Particulars,Amount (`),Particulars,Amount (`)
+To, Opening prepaid,5,000,By, Opening outstanding,10,000
+To, Bank,1,25,000,By, I & E A/c (balancing figure),1,21,000
+To, Closing outstanding,8,000,By, Closing prepaid,7,000
+,1,38,000,,1,38,000

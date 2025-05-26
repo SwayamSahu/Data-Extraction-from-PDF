@@ -1,0 +1,16 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.11,To Bank A/c (Down
+Payment),30,000,01.01.11,By Tempos A/c
+(`50,000 ×3),1,50,000
+31.12.11,To Bank A/c,50,800,31.12.11,By Interest A/c
+(9% on `1,20,000),10,800
+31.12.11,To Balance c/d,80,000,,,
+,,1,60,800,,,1,60,800
+31.12.12,To Tempos A/c,49,000,01.01.12,By Balance b/d,80,000
+31.12.12,To Balance c/d,38,200,31.12.12,By Interest A/c
+(9% on `80,000),7,200
+,,87,200,,,87,200
+31.12.13,To Bank A/c,41,638,01.01.13,By Balance b/d,38,200
+,,,31.12.13,By Interest A/c
+(9% on `38,200),3,438
+,,41,638,,,41,638

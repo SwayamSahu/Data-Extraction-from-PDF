@@ -1,0 +1,45 @@
+In books of Co-venturer A,In books of co-venturer B
+When goods are supplied and expenses paid by A,
+Joint Venture A/c Dr.
+To, Goods A/c
+To, Cash / Bank A/c,Joint Venture A/c Dr.
+To, A’s A/c
+When goods are supplied by B and expenses paid by B,
+Joint Venture A/c Dr.
+To, B’s A/c,Joint Venture A/c Dr.
+To, Goods A/c
+To, Cash / Bank A/c
+When advance is given by A to B or bill accepted by A,
+B’s A/c Dr.
+To, Cash / Bank A/c
+To, B/P A/c,Cash / Bank A/c Dr.
+B/R A/c Dr.
+To, A’s A/c
+When sale proceeds are received by A,
+Cash / Bank A/c Dr.
+To, Joint Venture A/c,A’s A/c Dr.
+To, Joint Venture A/c
+When sale proceeds are received by B,
+B’s A/c Dr.
+To, Joint Venture A/c,Cash / Bank A/c Dr.
+To, Joint Venture A/c
+For unsold goods taken over by A,
+Goods A/c Dr.
+To Joint Venture A/c,A’s A/c Dr.
+To Joint Venture A/c
+For unsold goods taken over by B,
+B’s A/c Dr.
+To, Joint Venture A/c,Goods A/c Dr.
+To, Joint Venture A/c
+For profit on joint venture business,
+Joint Venture A/c Dr.
+To, B’s A/c
+To, P & L A/c,Joint Venture A/c Dr.
+To, A’s A/c
+To, P & L A/c
+For loss on joint venture business,
+B’s A/c Dr.
+P & L A/c Dr.
+To, Joint Venture A/c,A’s A/c Dr.
+P & L A/c Dr.
+To, Joint Venture A/c

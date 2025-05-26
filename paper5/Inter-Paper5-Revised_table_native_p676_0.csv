@@ -1,0 +1,21 @@
+Date,Particulars,`,Date,Particulars,`
+01.01.2011,To Bank A/c,1,80,000,31.12.2011,By Machinery A/c,6,00,000
+31.12.2011,To Balance c/d,4,62,000,,By Interest A/c [10% on
+(`6,00,000 - `1,80,000)],42,000
+,,6,42,000,,,6,42,000
+31.12.2012,To Bank A/c (1,40,000 +
+42,000 + 46,200)
+To Balance c/d,2,28,200
+2,80,000,01.01.2012
+31.12.2012,By Balance c/d
+By Interest A/c
+[10% on `4,62,000],4,62,000
+46,200
+,,5,08,200,,,5,08,200
+31.12.2013,To Machinery A/c
+To Balance c/d,2,00,000
+1,08,000,01.01.2013
+31.12.2013,By Balance b/d
+By Interest A/c,2,80,000
+28,000
+,,3,08,000,,,3,08,000

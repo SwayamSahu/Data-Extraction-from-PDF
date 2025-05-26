@@ -1,0 +1,35 @@
+,Transaction,Usual Entry,Self-Balancing Entry
+1.,For Credit Sales,Individual Customer A/c Dr.
+(in Debtors Ledger)
+To, Sales A/c
+(in General Ledger),Debtors Ledger Adjustment A/c Dr.
+(in General Ledger)
+To, General Ledger Adjustment A/c
+(in Debtors Ledger)
+2.,For Cash/Cheque
+received from
+customers,Cash A/c Dr.
+(in General Ledger)
+To, Individual Customer A/c
+(in Debtors Ledger),General Ledger Adjustment A/c Dr.
+(in Debtors Ledger)
+To, Debtors Ledger Adjustment A/c
+(in General Ledger)
+3.,For
+Discount Allowed
+or allowance to
+customers,Discount Allowed A/c Dr.
+Or, Allowances A/c Dr.
+(in General Ledger)
+To, Individual Customer A/c
+(in Debtors Ledger),Do
+4.,For Bad Debts,Bad Debts A/c Dr.
+(in General Ledger)
+To, Individual Customer A/c
+(in Debtors Ledger),Do
+5.,For Bills Receiv-
+able received
+from customers,Bills Receivable A/c Dr.
+(in General Ledger)
+To, Individual Customer A/c
+(in Debtors Ledger),Do

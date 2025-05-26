@@ -1,0 +1,28 @@
+Date,Particulars,A
+`,B
+`,Date,Particulars,A
+`,B
+`
+1.4.12
+31.3.13,To Balance b/d
+” Drawings
+” Balance c/d,-
+1,000
+40,975
+41,975,3,000
+2,000
+29,475,1.4.12
+31.3.13
+”
+”,By Balance b/d
+” Interest on Capital
+” Salary
+” Share of Profit,10,000
+2,500
+-
+29,475,-
+2,000
+3,000
+29,475
+34,475
+,,,34,475,,,41,975,

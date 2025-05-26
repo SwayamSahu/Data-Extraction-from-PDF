@@ -1,0 +1,11 @@
+Date,Particulars,L.F,Debit,Credit
+,Bank A/c Dr.
+To, Donation for Building Fund A/c
+(Donation received for Building Fund),,20,20
+,Building A/c Dr.
+To, Bank A/c
+(Building purchased utilizing the Building Fund),,30,30
+,Building Fund A/c Dr.
+To, Capital Fund A/c
+(Being the capital expenditure transferred to the Capital
+Fund),,28,28

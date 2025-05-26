@@ -1,0 +1,23 @@
+Case,In the Books of Hire Purchaser,In the Books of Hire Vendor
+1. On transfer of Possession,Asset A/c Dr.
+To Hire Vendor’s A/c,Hire Purchaser’s A/c Dr.
+To H.P. Sales A/c
+2. On making Down Payment,Hire Vendor’s A/c Dr.
+To Bank A/c,Bank A/c Dr.
+To Hire Purchaser’s A/c
+3. On making Interest due on
+unpaid balance,Interest A/c Dr.
+To Hire Vendor’s A/c,Hire Purchaser’s A/c Dr.
+To Interest A/c
+4. On making payment of
+Instalment,Hire Vendor’s A/c Dr.
+To Bank A/c,Bank A/c Dr.
+To Hire Purchaser’s A/c
+5. On providing Depreciation,Depreciation A/c Dr.
+To Asset A/c,No Entry
+6. On closure of Depreciation
+A/c,Profit & Loss A/c Dr.
+To Depreciation A/c,No Entry
+7. On closure of Interest A/c,Profit & Loss A/c Dr.
+To Interest A/c,Interest A/c Dr.
+To Profit & Loss A/c
