@@ -1,3 +1,7 @@
+#  PDF : Skew Angle,Rotation and OCR - Complete Fix - Enhanced for All Table Types
+# With Word Extraction, Pattern Recognition and Multi-OCR Engine Support
+# Supports: Tesseract, PaddleOCR, and EasyOCR with automatic best selection
+
 import fitz  
 import cv2
 import numpy as np
